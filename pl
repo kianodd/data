@@ -3,7 +3,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>پراجکت لئون:اخبار جنگ،در لحظه – Telegram</title>
+    <title>اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33; – Telegram</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <meta name="format-detection" content="telephone=no" />
     <meta http-equiv="X-UA-Compatible"
@@ -11,15 +11,15 @@
     <meta name="MobileOptimized" content="176" />
     <meta name="HandheldFriendly" content="True" />
     
-<meta property="og:title" content="پراجکت لئون:اخبار جنگ،در لحظه">
-<meta property="og:image" content="https://cdn4.telesco.pe/file/EyM_Gh6MdxH-bQuTmyYwAWCM74Cd-OBV7Ia2IlLFPrQT6vhEJDmrYuT1j20xZnTuUqRetyPmU0u-ltvN7Rb7652mEr-YbF70ninFbFY7ldh-1bvLaDCR4480dA0eMFb0yQOOzv08-b6YJkXTWMH4_OXmVV_jO-E5IM6-OFcLnUNw_QPLuV4rzB9ckoyVh3OxruO9llDjJ9lTZUd9oadivMIo9M5KPSotywPwJUUBgCN2rZ0EkcGx4P0kYjH0U_QEE2G5tZY6lT1lMUvXUn-FFntZfgiYxOF1mUynV_t8bcO6Ct47FzJocMR2Y-kBAkqb3tVpDzgnL50ehCJ3sDAAIw.jpg">
+<meta property="og:title" content="اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;">
+<meta property="og:image" content="https://cdn4.telesco.pe/file/OHf0Sn2sXu27sx77v-6bgvVxvw5Ka5tmxHgWqc4Z29A1ZD_nCQd7nf9FCdoXTWvDWWCogyO9B6mAH8Rrfzh106riORKMskGcDi3I3cOsIBsbF3ZnVkolppVBdV-9qCryrQ5JACW8DxPn0roSBQR_kyVGRLhLrGID0ePwr9skKrVJTP97FKtnKPzybz7c7WG5MIbiDX0wh98OD3dJ_JDrmacQac1S28vUTyl6pOBEQIayORbtstOf2fQdAUHyJyJWJOkwwQ_8xWFLm6kfhluNIQsD01rMfdd8VRlxVgC2QmzKJiA4VmJ0DHktH4HVGmI1qiF72Bd0h_68HfkTXByXSA.jpg">
 <meta property="og:site_name" content="Telegram">
-<meta property="og:description" content="تماس با ادمین ، ایمیل ارتباط رسمی:
+<meta property="og:description" content="تماس با روابط عمومی،ایمیل ارتباط رسمی:
 
 project.leon.official@projectleon.net">
 
-<meta property="twitter:title" content="پراجکت لئون:اخبار جنگ،در لحظه">
-<meta property="twitter:image" content="https://cdn4.telesco.pe/file/EyM_Gh6MdxH-bQuTmyYwAWCM74Cd-OBV7Ia2IlLFPrQT6vhEJDmrYuT1j20xZnTuUqRetyPmU0u-ltvN7Rb7652mEr-YbF70ninFbFY7ldh-1bvLaDCR4480dA0eMFb0yQOOzv08-b6YJkXTWMH4_OXmVV_jO-E5IM6-OFcLnUNw_QPLuV4rzB9ckoyVh3OxruO9llDjJ9lTZUd9oadivMIo9M5KPSotywPwJUUBgCN2rZ0EkcGx4P0kYjH0U_QEE2G5tZY6lT1lMUvXUn-FFntZfgiYxOF1mUynV_t8bcO6Ct47FzJocMR2Y-kBAkqb3tVpDzgnL50ehCJ3sDAAIw.jpg">
+<meta property="twitter:title" content="اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;">
+<meta property="twitter:image" content="https://cdn4.telesco.pe/file/OHf0Sn2sXu27sx77v-6bgvVxvw5Ka5tmxHgWqc4Z29A1ZD_nCQd7nf9FCdoXTWvDWWCogyO9B6mAH8Rrfzh106riORKMskGcDi3I3cOsIBsbF3ZnVkolppVBdV-9qCryrQ5JACW8DxPn0roSBQR_kyVGRLhLrGID0ePwr9skKrVJTP97FKtnKPzybz7c7WG5MIbiDX0wh98OD3dJ_JDrmacQac1S28vUTyl6pOBEQIayORbtstOf2fQdAUHyJyJWJOkwwQ_8xWFLm6kfhluNIQsD01rMfdd8VRlxVgC2QmzKJiA4VmJ0DHktH4HVGmI1qiF72Bd0h_68HfkTXByXSA.jpg">
 <meta property="twitter:site" content="@Telegram">
 
 <meta property="al:ios:app_store_id" content="686449807">
@@ -32,13 +32,13 @@ project.leon.official@projectleon.net">
 
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@Telegram">
-<meta name="twitter:description" content="تماس با ادمین ، ایمیل ارتباط رسمی:
+<meta name="twitter:description" content="تماس با روابط عمومی،ایمیل ارتباط رسمی:
 
 project.leon.official@projectleon.net
 ">
 
-    <link rel="prev" href="/s/ProjectLeon7?before=11646">
-<link rel="canonical" href="/s/ProjectLeon7?before=11671">
+    <link rel="prev" href="/s/ProjectLeon7?before=11706">
+<link rel="canonical" href="/s/ProjectLeon7?before=11732">
 
     <script>window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches&&document.documentElement&&document.documentElement.classList&&document.documentElement.classList.add('theme_dark');</script>
     <link rel="icon" type="image/svg+xml" href="//telegram.org/img/website_icon.svg?4">
@@ -186,16 +186,16 @@ project.leon.official@projectleon.net
       <section class="tgme_right_column">
         <div class="tgme_channel_info">
           <div class="tgme_channel_info_header">
-            <i class="tgme_page_photo_image bgcolor5" data-content="پل"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i>
+            <i class="tgme_page_photo_image bgcolor5" data-content="اص"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i>
             <div class="tgme_channel_info_header_title_wrap">
-              <div class="tgme_channel_info_header_title"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></div>
+              <div class="tgme_channel_info_header_title"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></div>
               <div class="tgme_channel_info_header_labels"></div>
             </div>
             <div class="tgme_channel_info_header_username"><a href="https://t.me/ProjectLeon7">@ProjectLeon7</a></div>
           </div>
-          <div class="tgme_channel_info_counters"><div class="tgme_channel_info_counter"><span class="counter_value">38K</span> <span class="counter_type">subscribers</span></div><div class="tgme_channel_info_counter"><span class="counter_value">2.85K</span> <span class="counter_type">photos</span></div><div class="tgme_channel_info_counter"><span class="counter_value">4.04K</span> <span class="counter_type">videos</span></div><div class="tgme_channel_info_counter"><span class="counter_value">6</span> <span class="counter_type">files</span></div><div class="tgme_channel_info_counter"><span class="counter_value">900</span> <span class="counter_type">links</span></div></div>
-          <div class="tgme_channel_info_description">تماس با ادمین ، ایمیل ارتباط رسمی:<br/><br/>project.leon.official@projectleon.net</div>
-          <a class="tgme_channel_download_telegram" href="//telegram.org/dl?tme=7a122e83e2822172ac_4724007607191439813">
+          <div class="tgme_channel_info_counters"><div class="tgme_channel_info_counter"><span class="counter_value">38K</span> <span class="counter_type">subscribers</span></div><div class="tgme_channel_info_counter"><span class="counter_value">2.86K</span> <span class="counter_type">photos</span></div><div class="tgme_channel_info_counter"><span class="counter_value">4.08K</span> <span class="counter_type">videos</span></div><div class="tgme_channel_info_counter"><span class="counter_value">6</span> <span class="counter_type">files</span></div><div class="tgme_channel_info_counter"><span class="counter_value">902</span> <span class="counter_type">links</span></div></div>
+          <div class="tgme_channel_info_description">تماس با روابط عمومی،ایمیل ارتباط رسمی:<br/><br/>project.leon.official@projectleon.net</div>
+          <a class="tgme_channel_download_telegram" href="//telegram.org/dl?tme=982d657d9c4d815d7e_14273241495835483162">
             <svg class="tgme_channel_download_telegram_icon" width="21px" height="18px" viewBox="0 0 21 18"><g fill="none"><path fill="#ffffff" d="M0.554,7.092 L19.117,0.078 C19.737,-0.156 20.429,0.156 20.663,0.776 C20.745,0.994 20.763,1.23 20.713,1.457 L17.513,16.059 C17.351,16.799 16.62,17.268 15.88,17.105 C15.696,17.065 15.523,16.987 15.37,16.877 L8.997,12.271 C8.614,11.994 8.527,11.458 8.805,11.074 C8.835,11.033 8.869,10.994 8.905,10.958 L15.458,4.661 C15.594,4.53 15.598,4.313 15.467,4.176 C15.354,4.059 15.174,4.037 15.036,4.125 L6.104,9.795 C5.575,10.131 4.922,10.207 4.329,10.002 L0.577,8.704 C0.13,8.55 -0.107,8.061 0.047,7.614 C0.131,7.374 0.316,7.182 0.554,7.092 Z"></path></g></svg>Download Telegram
           </a>
           <div class="tgme_footer">
@@ -216,13 +216,13 @@ project.leon.official@projectleon.net
       </section>
     </div>
     <div class="tgme_header_info">
-      <a class="tgme_channel_join_telegram" href="//telegram.org/dl?tme=7a122e83e2822172ac_4724007607191439813">
+      <a class="tgme_channel_join_telegram" href="//telegram.org/dl?tme=982d657d9c4d815d7e_14273241495835483162">
         <svg class="tgme_channel_join_telegram_icon" width="19px" height="16px" viewBox="0 0 19 16"><g fill="none"><path fill="#ffffff" d="M0.465,6.638 L17.511,0.073 C18.078,-0.145 18.714,0.137 18.932,0.704 C19.009,0.903 19.026,1.121 18.981,1.33 L16.042,15.001 C15.896,15.679 15.228,16.111 14.549,15.965 C14.375,15.928 14.211,15.854 14.068,15.748 L8.223,11.443 C7.874,11.185 7.799,10.694 8.057,10.345 C8.082,10.311 8.109,10.279 8.139,10.249 L14.191,4.322 C14.315,4.201 14.317,4.002 14.195,3.878 C14.091,3.771 13.926,3.753 13.8,3.834 L5.602,9.138 C5.112,9.456 4.502,9.528 3.952,9.333 L0.486,8.112 C0.077,7.967 -0.138,7.519 0.007,7.11 C0.083,6.893 0.25,6.721 0.465,6.638 Z"></path></g></svg>Join
       </a>
       <a class="tgme_header_link" href="https://t.me/ProjectLeon7">
-        <i class="tgme_page_photo_image bgcolor5" data-content="پل"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i>
+        <i class="tgme_page_photo_image bgcolor5" data-content="اص"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i>
         <div class="tgme_header_title_wrap">
-          <div class="tgme_header_title"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></div>
+          <div class="tgme_header_title"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></div>
           <div class="tgme_header_labels"></div>
         </div>
         <div class="tgme_header_counter">38K subscribers</div>
@@ -233,8 +233,8 @@ project.leon.official@projectleon.net
 <main class="tgme_main" data-url="/ProjectLeon7">
   <div class="tgme_container">
     <section class="tgme_channel_history js-message_history">
-      <div class="tgme_widget_message_centered js-messages_more_wrap"><a href="/s/ProjectLeon7?before=11646" class="tme_messages_more js-messages_more" data-before="11646"></a></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11646" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NDYsInQiOjE3Nzc5OTA5MzIsImgiOiI0YmVhY2JkZWU2ODZkNTM2ZDEifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
+      <div class="tgme_widget_message_centered js-messages_more_wrap"><a href="/s/ProjectLeon7?before=11706" class="tme_messages_more js-messages_more" data-before="11706"></a></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap service_message js-widget_message" data-post="ProjectLeon7/11706" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MDYsInQiOjE3NzgwNjQwMDAsImgiOiIxN2YzYzA1NjIwNmI3NTJmMWQifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
         <i class="tgme_widget_message_bubble_tail">
@@ -247,405 +247,20 @@ project.leon.official@projectleon.net
         </g>
       </svg>
     </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
 
 
-<div class="media_supported_cont"><a class="tgme_widget_message_photo_wrap 6037377018107728256 1405686377_460001664" href="https://t.me/ProjectLeon7/11646" style="width:450px;background-image:url('https://cdn4.telesco.pe/file/L9maIRlpczlae0PAcZqDEDdtWHLSe53grFiIGeV2cbCOHHCYmBbln97CcUwTQiipdBhZjaiB953sNDXxv2b1PmkLaegv7PZpoZscxyfovDF3lMpK_vmIAv9EW-MrFW0YIcegqEFvDbqST7D5PN0XLboy1ChU0DjuJUUGiYnEECV3z5AeMxYK19Hzy-XpPGEeFXuO68GJKG-oJ20cnAAw_qUb2MPkbd4PXVC4aJh6M5Guj7lTCY34ubAHDPul7t9_ravED-OFo_BBBphFR4sKz9bVowavqLbnSjEp2SoJ3KFcMYv6TikxwOghr8ecIZUFVE8AcBVFENqfdFH0V4w2Vw.jpg')">
-  <div class="tgme_widget_message_photo" style="padding-top:70%"></div>
-</a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji><tg-emoji emoji-id="5395444784611480792"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8F.png')"><b>✏️</b></i></tg-emoji><tg-emoji emoji-id="5139029370114933735"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')"><b>🇺🇸</b></i></tg-emoji> رژیم در رابطه با جنبش کشتی‌ها، پروژه آزادی، به کشورهای غیرمرتبط حمله کرده است، از جمله یک کشتی باری کره جنوبی. شاید وقت آن رسیده که کره جنوبی هم به این ماموریت بپیوندد&#33; ما هفت قایق کوچک یا به قول خودشان قایق‌های «تندرو» را سرنگون کرده‌ایم.<br/><br/> این تنها چیزی است که برایشان باقی مانده است. به غیر از کشتی کره جنوبی، در حال حاضر هیچ آسیبی از تنگه عبور نکرده است. پیت هگست، وزیر جنگ و دن کین، رئیس ستاد مشترک ارتش، فردا صبح یک کنفرانس خبری خواهند داشت.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> بهرامشید ۱۵ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
-    <a href="https://t.me/ProjectLeon7/11646" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
-  </div>
-</div></div>
-<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>71</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>25</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i>5</span></div><div class="tgme_widget_message_footer compact js-message_footer">
-  
-  <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_views">5.04K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11646"><time datetime="2026-05-04T20:56:12+00:00" class="time">20:56</time></a></span>
-  </div>
-</div>
-  </div>
-  
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11647" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NDcsInQiOjE3Nzc5OTA5MzIsImgiOiJmYTA1OWMyYjk5OTE4NzJmMmQifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
-  <div class="tgme_widget_message_bubble">
-    
-        <i class="tgme_widget_message_bubble_tail">
-      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
-        <g fill="none">
-          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
-          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
-          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
-          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
-        </g>
-      </svg>
-    </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
-
-
-<div class="media_supported_cont"><a class="tgme_widget_message_photo_wrap blured 6037377018107728259 1405686377_460001667" href="https://t.me/ProjectLeon7/11647" style="width:591px;background-image:url('https://cdn4.telesco.pe/file/VUWkdlz13bjG-FSJHfD35oIBA73vx0wQwYQCFdRLYhGlJpsOF6XF4Img2IQh-exDxFIVuiMKBNvMBgcy_3Ll4JrbdbDIoG8uQDMJJKCvzuQW_3wkIhu6UsT7Xh4IAXCLLestTep_CDA0Wqz62JGuJrRFudOyuazSZUqfq4N6ttp3Y6PRc1MsVCMU_mY8d6ayMLh6kbqG_9e8xGbxQf7Xlwt9Fbj2J4xqoL8CO3bg4L5PsTOPOxVwZG0IaKLIkK1NTSInPVVVhCtplUZAuONuoGS1ShTXkZk5TzZIDDEhT9NNH7w_TL4HjHV9DEuFnbt8HTTaQQhejhxZb-dMZkKX2Q.jpg')">
-  <div class="tgme_widget_message_photo" style="width:98.994974874372%;padding-top:133.33333333333%"></div>
-</a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji><tg-emoji emoji-id="5395444784611480792"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8F.png')"><b>✏️</b></i></tg-emoji> <tg-emoji emoji-id="5193127592764394874"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')"><b>💡</b></i></tg-emoji> لیندزی گراهام در مورد پست جدید کینگ ترامپ:<br/><br/><tg-emoji emoji-id="5443127283898405358"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')"><b>📥</b></i></tg-emoji>کاملاً درست گفتی، آقای رئیس جمهور.<br/><br/>ترکیب حمله رژیم به زیرساخت‌های حیاتی امارات و حملات مداوم به کشتی‌های بین‌المللی، از جمله یک کشتی باری کره جنوبی، بیش از هر چیز دیگری یک پاسخ بزرگ، قوی و کوتاه برای وارد کردن خسارات بیشتر به ماشین جنگی رژیم را توجیه می‌کند.<br/><br/>امارات متحده عربی در این مبارزه یک متحد قهرمان بوده و هر کاری را که از آنها خواسته شده و فراتر از آن انجام داده است. حمله گستاخانه اخیر رژیم علیه امارات متحده عربی چیزهای زیادی در مورد اینکه چه کسی در جمهوری اسلامی مسئول است و احتمال یک راه حل دیپلماتیک در آینده نزدیک چیست، به من می‌گوید.<br/><br/>یک پاسخ قاطع از طرف متحد ما، امارات متحده عربی، این موضوع را تقویت می‌کند که آمریکا به عنوان یک متحد قابل اعتماد بازگشته است و به ... کمک می‌کند.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> بهرامشید ۱۵ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
-    <a href="https://t.me/ProjectLeon7/11647" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
-  </div>
-</div></div>
-<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>94</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i>11</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>8</span></div><div class="tgme_widget_message_footer compact js-message_footer">
-  
-  <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_views">5.11K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11647"><time datetime="2026-05-04T20:58:48+00:00" class="time">20:58</time></a></span>
-  </div>
-</div>
-  </div>
-  
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11648" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NDgsInQiOjE3Nzc5OTA5MzIsImgiOiJlZTQ2N2U4NmUzZGJjZDMyZDgifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
-  <div class="tgme_widget_message_bubble">
-    
-        <i class="tgme_widget_message_bubble_tail">
-      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
-        <g fill="none">
-          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
-          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
-          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
-          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
-        </g>
-      </svg>
-    </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
-
-
-<div class="media_supported_cont"><a class="tgme_widget_message_video_player blured js-message_video_player" href="https://t.me/ProjectLeon7/11648"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/MCfDM3HAOZVIaerco5pD-SoXSFW28ruKr2xP6qJJPzlDGn7WFKDmhpKE6j9eVBpdEhUwGAogIQ_b1HKqtCnz7BICwA7sqOLjvt7qDcHIFu9LkltfcXbJyfqh4zDVBf6ILCBGwkh6zCkG7-2GwpqIhogli8rgjWSIE04lW22anAz-CBSB_GWlu1bDSDc8ZWuJTyLS5R1jJsObFWvm0VQaKSwuO7U8Eu8ZlNl4q_eDHYHLyE38flrIsZJ1448AGTNtb6Ur23R0dbrf3mqd5GBfyMmUXH6-E1ieJ1O-CRyNpeRaBHH7cZposJ2JZ5nF07cMbq6A0rvDBdjfsCQo_jE_Iw')"></i>
-<video src="https://cdn4.telesco.pe/file/fa6d9a137a.mp4?token=cRqdhPnCA0T8I3H9HCvIekZzkulKzybS0YOZDi1zADiKu64hSWbuvbNqgRnf9z-Cf3Wnom9wEC509L0whXOC1t1AMQsyhus9jVcw0MqGj2gWGocUiY-5NK46wQCaSiGHLDlQ_IXQOAXWWltBLsB9cYRjGqbaasPavQH7upD0-9kLfuBvaRR9OhOFYiuCTeLslVKAenuLp2iOUkSNLIQYQLW7vKtnh1jkWKZ6IYkN3nJBcggCK_XkylL7dBaJqJMRXvkNZmlWws4INVXUt9HZtJiQOEorURWKK7qESlxPowRs8CQddKL7sZAcfUtE9HBegaOapZdtz7FE0Ka38N6a-w" class="tgme_widget_message_video blured js-message_video_blured" width="100%" height="100%" muted></video>
-<div class="tgme_widget_message_video_wrap" style="width:352px;padding-top:133.33333333333%">
-  <video src="https://cdn4.telesco.pe/file/fa6d9a137a.mp4?token=cRqdhPnCA0T8I3H9HCvIekZzkulKzybS0YOZDi1zADiKu64hSWbuvbNqgRnf9z-Cf3Wnom9wEC509L0whXOC1t1AMQsyhus9jVcw0MqGj2gWGocUiY-5NK46wQCaSiGHLDlQ_IXQOAXWWltBLsB9cYRjGqbaasPavQH7upD0-9kLfuBvaRR9OhOFYiuCTeLslVKAenuLp2iOUkSNLIQYQLW7vKtnh1jkWKZ6IYkN3nJBcggCK_XkylL7dBaJqJMRXvkNZmlWws4INVXUt9HZtJiQOEorURWKK7qESlxPowRs8CQddKL7sZAcfUtE9HBegaOapZdtz7FE0Ka38N6a-w" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
-</div>
-<div class="message_video_play js-message_video_play"></div>
-<time class="message_video_duration js-message_video_duration">0:16</time>
-<div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
-    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
-  </div>
-</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji><tg-emoji emoji-id="5395695537687123235"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')"><b>🚨</b></i></tg-emoji><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87A6F09F87AA.png')"><b>🇦🇪</b></i> یک برج مسکونی در امارات متحده عربی هدف پهپاد جمهوری اسلامی قرار گرفت . <br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> بهرامشید ۱۵ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
-    <a href="https://t.me/ProjectLeon7/11648" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
-  </div>
-</div></div>
-<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>59</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>28</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F958A.png')"><b>🕊</b></i>15</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i>7</span></div><div class="tgme_widget_message_footer compact js-message_footer">
-  
-  <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_views">5.11K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11648"><time datetime="2026-05-04T21:00:16+00:00" class="time">21:00</time></a></span>
-  </div>
-</div>
-  </div>
-  
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11649" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NDksInQiOjE3Nzc5OTA5MzIsImgiOiIzZTFlZjNjMjIyYzBmY2MyZDgifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
-  <div class="tgme_widget_message_bubble">
-    
-        <i class="tgme_widget_message_bubble_tail">
-      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
-        <g fill="none">
-          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
-          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
-          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
-          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
-        </g>
-      </svg>
-    </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
-
-
-<div class="media_supported_cont"><a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11649"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/T3scROSR-MPW2tShsbf6wkaySDYicr9VuNq4ZMKf58Xf_2u6ZUQsijeUSktL9LB7VSfcLmgCA6ks6qgsYQ05Vd3LQIUKVPgYsZDXqfsjwTfH4J4BMurV6zceSQSCUzaAGSd1qxEuAI5v1oist1c5ByflYF8MNjtDCagz3BvU4TXmdY4ZfSz-LSz9GlefMfOOaRyu35kpIFOOVJxwUDkd_D6X8d0qVN5_mIZNeah7jJwfdDC7swihM7xFec99Bedgi5-dB7GFcFXNHQlh_0-p9URa7reDU9FJ4HhEhK8CYDF1KvhcVn5wm7eAvwjImV4wZhXhbS6i174Q-uzmP8TZEQ')"></i>
-
-<div class="tgme_widget_message_video_wrap" style="width:1920px;padding-top:56.25%">
-  <video src="https://cdn4.telesco.pe/file/ef1a93e0e7.mp4?token=ESzk3Sfi2B8Rwu91VeF5g-AB0lp6lHB1AW7yJHbhMuRWa4b_aMP9i0QuM9Kp7mn_l9nlzeqYr0rELh3t5zpWUJG3zZSojTbTVEtA66NDF4MrnTIV8sXVrKR-K3-a-AJDD_elUsNAYB-Bq9rdkrC5pV4SvTM1xwXJAC5jclX5VFR5sJU1D62_prGZ2lbWD4ANYCErkRWa6dLBW2plRVCdeckw8QefjXB-qEC7IOKJDkXUwyxe7nFPSopmxfR3vSaxk32HdBLZ_7Wkt7Rf-OuQAmyeT-ZhEZrXADo1yKmXcip7DPFlrabP0DFt4iXQpVOv7rpuTBfQITtzJp6dACtVAo2h4jend-Nu2TY1Lu6clqZPfYYel1qL1jFuLuSdC1Aho8Ge6m2o-r8L4lVLseg79m7CV1nRHrLJ_2-aaYYVPZqLldb8IgZQTKaaC-eBy4N79Cas_LY0d8cFld8lvLpSQ5MphzjOVcoxOBLV0NLY9_2f2J8EEy8VsXYc07NxJv8lNmIjasAb7VLpGr8XtmNd2Tu8VWYwhqCjjndwnox7cq-RU5PDNSdkQBgtyuWsH2sTc764_oqiRm45DvdrzGjeylmgBWI-wLtfI51HTvewpyEZ0SKjFP6Kc5zcHQTfdWJ1GirrjvaVQZgQcwKAuUxmhht6kdn-ceCE_6sQ6c4HNs4" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
-</div>
-<div class="message_video_play js-message_video_play"></div>
-<time class="message_video_duration js-message_video_duration">1:17</time>
-<div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
-    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
-  </div>
-</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji><tg-emoji emoji-id="5139029370114933735"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')"><b>🇺🇸</b></i></tg-emoji><tg-emoji emoji-id="5341498088408234504"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92AF.png')"><b>💯</b></i></tg-emoji> کینگ ترامپ فاش کرد که با وجود «جنگی کوچک» با رژیم، آمریکا در حال «رونق» است.<br/><br/>«کشور ما اکنون در حال رونق است، با وجود اینکه ما در یک، من آن را یک جنگ کوچک می‌نامم، زیرا آنها فقط همین هستند&#33;»<br/><br/>«در دو هفته اول، ۱۵۹ کشتی، من واقعاً خیلی ناراحت شدم. گفتم، کیفیت آنها چقدر بود؟ آنها خیلی خوب بودند. گفتم، چرا کشتی را نگرفتید؟ چرا باید آن را به ته صحنه بفرستید؟»<br/><br/>«من ترجیح می‌دهم آنها را نجات دهم، اما اینها جزئیات جزئی هستند.»<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> بهرامشید ۱۵ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
-    <a href="https://t.me/ProjectLeon7/11649" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
-  </div>
-</div></div>
-<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>91</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')"><b>🤣</b></i>17</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>12</span></div><div class="tgme_widget_message_footer compact js-message_footer">
-  
-  <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_views">5.1K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11649"><time datetime="2026-05-04T21:02:17+00:00" class="time">21:02</time></a></span>
-  </div>
-</div>
-  </div>
-  
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11650" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NTAsInQiOjE3Nzc5OTA5MzIsImgiOiI3MDk4NDE0YjVkZjIxZWNiZjkifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
-  <div class="tgme_widget_message_bubble">
-    
-        <i class="tgme_widget_message_bubble_tail">
-      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
-        <g fill="none">
-          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
-          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
-          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
-          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
-        </g>
-      </svg>
-    </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
-
-
-<div class="media_supported_cont"><a class="tgme_widget_message_video_player not_supported js-message_video_player" href="https://t.me/ProjectLeon7/11650"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/nzrAgix6WNXJt6MT4eAOtnT927zuHdu1BU9pjwGO22APwGiKHkkzdS3fuE5xxoOl9tKlr7Q35aODTh0uZJG16R1tqUu-7j5SWFUMk6DW446HOSmxfg_nBVje23_7e9cYrFtatO-f6xO9U0pp3sgwHARvQPKYoC2yuceLah92I9MUscD5ZmV6fsuXSnuLtSLCopFxgH01a2J6t5GKKzAsaD04F3yfaq3vkQV1_ehafFzfrOSPbmgdWHgce8QlZ7uk22_e3qXnngk9zZGUuRStzlqhu6x5VLCX7y40TlNhGmW9ObLFvpPvmHtHkVCdtRCOBJnUaPsUc0v5PWubjqqdkQ')"></i>
-
-<div class="tgme_widget_message_video_wrap" style="width:1920px;padding-top:56.25%">
-  
-</div>
-<div class="message_video_play js-message_video_play"></div>
-<time class="message_video_duration js-message_video_duration">1:44</time>
-<div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">Media is too big</div>
-    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
-  </div>
-</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji><tg-emoji emoji-id="5139029370114933735"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')"><b>🇺🇸</b></i></tg-emoji><tg-emoji emoji-id="5276032951342088188"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A5.png')"><b>💥</b></i></tg-emoji> به گزارش اریک داتری, خبرنگار مورد اعتماد کینگ ترامپ , کاخ سفید پس از گزارش‌هایی مبنی بر &quot;تیراندازی&quot; در نزدیکی، در قرنطینه است، و با این همه کینگ ترامپ روی صحنه می‌آید و در سلامت است.<br/><br/>برای کینگ ترامپ و نیروهای انتظامی که در حال پاسخگویی هستند دعا کنید.<br/><br/>به گزارش نیوزنیشن، سرویس مخفی به خبرنگاران دستور داد از چمن شمالی کاخ سفید خارج شده و به اتاق جلسه بروند.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> بهرامشید ۱۵ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
-    <a href="https://t.me/ProjectLeon7/11650" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
-  </div>
-</div></div>
-<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>107</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>16</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i>4</span></div><div class="tgme_widget_message_footer compact js-message_footer">
-  
-  <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_views">5.19K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11650"><time datetime="2026-05-04T21:04:48+00:00" class="time">21:04</time></a></span>
-  </div>
-</div>
-  </div>
-  
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11651" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NTEsInQiOjE3Nzc5OTA5MzIsImgiOiIzNzg4YzYwODMzMTcwZGNhMDEifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
-  <div class="tgme_widget_message_bubble">
-    
-        <i class="tgme_widget_message_bubble_tail">
-      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
-        <g fill="none">
-          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
-          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
-          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
-          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
-        </g>
-      </svg>
-    </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
-
-
-<div class="media_supported_cont"><a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11651"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/IL3x10rZYko0Z_CGcPZ6rBWil2oJv2HISY3myjwT52wqbJmGASdKoaZXvycnvr9fVUyo2iwWnyCJFOEVXuVdD4E93FvbuPD1_vdOc5nR7Ilpxnzd2DVOpoeywE-mYRTlQW3_14SQKKK3_afQs4Aiv7NPziwHyBEC8sg4YZXjR2xp5cZWEXeYUBzBWRssA2vsJDC7nexuOrzFb_VW63bHfPuuAgaNJlmdDb7LmjynpSpTFhopjaocZ_CimLiiq0OvzB5MwCFAwAMbqEoxRcpJ-kXCp0f4Jq9H19CQMrwpKWBNuHnEjhvSE-rEUKfu4vk6jkVxvfI3jPHuZrXp0HDTCw')"></i>
-
-<div class="tgme_widget_message_video_wrap" style="width:1080px;padding-top:100%">
-  <video src="https://cdn4.telesco.pe/file/0069524517.mp4?token=YT88CZlreeNHHehTiLpzEZT460o9UyUivlFumwaTHzRQCnUCX99T-46Puor7xGzx8-zvrGLGT7Bc7B5OcbXMGpyCpQbvY3ajBmXk-4qRr1ix2sQWl4tf1D_QGma0vsAyjOhz9w9c6W479lpv8-qkKFKfebsQcjSWA9Tfskp7dgbmOrTe2rsbNDqGAfLsgt1VU1DbQ2p-QPIMjBjjFhOl6j9VxQD543feKruK-ce4k6XaoIXHvkL496FskGcetrUQyoMLg7GTMenUoaL4I3b5A5THpo897xOxWfdFfqkAuTOcLN48lTVWcThmZ8fJQ0gCg51elROQFLo26JiTg8kfYg" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
-</div>
-<div class="message_video_play js-message_video_play"></div>
-<time class="message_video_duration js-message_video_duration">0:56</time>
-<div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
-    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
-  </div>
-</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji><tg-emoji emoji-id="5139029370114933735"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')"><b>🇺🇸</b></i></tg-emoji><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87AEF09F87B9.png')"><b>🇮🇹</b></i> اروپاییان فقط زبان تهدید میفهمند : <br/><br/>ملونی، نخست وزیر ایتالیا، از ترامپ خواست که نیروها را خارج نکند.<br/><br/>جورجیا ملونی، از ترس اینکه ترامپ، نیروهای آمریکایی را از ایتالیا خارج کند و آلمان - و شاید اسپانیا - را پشت سر بگذارد، می‌گوید از این اقدام &quot;حمایت&quot; نخواهد کرد.<br/><br/>&quot;واضح است که این تصمیمی است که به من بستگی ندارد و من شخصاً از آن حمایت نخواهم کرد.&quot;<br/><br/>&quot;اما یک چیز هست که می‌خواهم روشن کنم، ایتالیا همیشه به تعهدات خود عمل کرده است.&quot;<br/><br/>ترامپ از کشورهایی که به آمریکا در برابر جمهوری اسلامی کمک نکردند، راضی نیست. <tg-emoji emoji-id="5409015472517553802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949D.png')"><b>🔝</b></i></tg-emoji><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> بهرامشید ۱۵ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
-    <a href="https://t.me/ProjectLeon7/11651" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
-  </div>
-</div></div>
-<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')"><b>🤣</b></i>131</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>37</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>22</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i>5</span></div><div class="tgme_widget_message_footer compact js-message_footer">
-  
-  <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_views">5.74K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11651"><time datetime="2026-05-04T21:07:04+00:00" class="time">21:07</time></a></span>
-  </div>
-</div>
-  </div>
-  
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11654" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NTQsInQiOjE3Nzc5OTA5MzIsImgiOiIxNTA2Nzk3ZjgxN2Y2Y2Y2MTkifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
-  <div class="tgme_widget_message_bubble">
-    
-        <i class="tgme_widget_message_bubble_tail">
-      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
-        <g fill="none">
-          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
-          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
-          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
-          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
-        </g>
-      </svg>
-    </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
-<div class="tgme_widget_message_forwarded_from accent_color">Forwarded from&nbsp;<a class="tgme_widget_message_forwarded_from_name" href="https://t.me/ProjectLeon7/10784"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a>&nbsp;(<span class="tgme_widget_message_forwarded_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>)</div>
-
-<a class="tgme_widget_message_photo_wrap 5958759578784697506 1387381828_460000418" href="https://t.me/ProjectLeon7/11654" style="width:800px;background-image:url('https://cdn4.telesco.pe/file/BFQtUuKQPYqMO8nIt5GKNFuBMiNx_WT1lpYcu_avXbOFWv2Wx77dDlXxhKhY6yk6NknEau2TDsIHPiiPa-e3yIXrTE-z-WNuuDjhB_fYNdHQmklz8nYJ8MC6TdUlOvtt4IcK5-5YYhz5-TRnaFi-gNBoV9QM97quMNMvFZocFVPjwybJBcuPeUfJSctSyVIk1CXoRnC92dTP78ByHLx7efxtQe2LLnHzTfnpn_d2qYjiPuAOf0QK4QESDcnKLqsTP-_tstK6jDEqsJgEkShVqR5Fp__MCT5S9bwVSWIhXzajY_pVDdr7yX5l0a4ScDSfIgRsIQFE2DLOT02pqt5eYw.jpg')">
-  <div class="tgme_widget_message_photo" style="padding-top:100%"></div>
-</a><div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i><b>مهم: <br/></b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9188.png')"><b>👈</b></i>در انتهای پست های این کانال تبلیغاتی وجود دارد که از سوی تلگرام به نمایش در می آیند. <br/><br/>پراجکت لئون <b>هیچگونه</b> قرارداد تبلیغاتی با گروه و رسانه ای ندارد و نیز مضمون آن را تأیید نمیکند.<br/><br/>تبلیغات در این کانال، کار بوت های رژیم است، دنبال نکنید&#33;<br/><br/>با سپاس.<br/>پراجکت لئون</div>
-<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>50</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>17</span></div><div class="tgme_widget_message_footer compact js-message_footer">
-  
-  <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_views">2.36K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11654"><time datetime="2026-05-04T21:24:08+00:00" class="time">21:24</time></a></span>
-  </div>
-</div>
-  </div>
-  
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11655" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NTUsInQiOjE3Nzc5OTA5MzIsImgiOiJiOTQwMDI2ZjIzMjk3YzY3MmQifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
-  <div class="tgme_widget_message_bubble">
-    
-        <i class="tgme_widget_message_bubble_tail">
-      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
-        <g fill="none">
-          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
-          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
-          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
-          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
-        </g>
-      </svg>
-    </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
-
-
-<div class="media_supported_cont"><a class="tgme_widget_message_photo_wrap 6037377018107728270 1405686377_460001678" href="https://t.me/ProjectLeon7/11655" style="width:420px;background-image:url('https://cdn4.telesco.pe/file/dP7WO8S67mBGpKMA7u8SdUpgGmCkHr5YXkz8cNhn5IgqTGw5Ir1hYVkzHq_y_sRcPjfbxVjcbgxguTNG3aVTPaZMauUITuczLfpL9oI9B-Fc-miyrRKRgvGisgCQjXhVx5MlwCXmXFa3_CvkOCwi3VOudfMLHGV538jXg9SVnzVUpGnGM0DfpNMtgMHZflkQ15BuMeVdeem7IKIibHz_0OqG9V3s_Jk-pUQYnqdBniuRY_KL9rut3VvYdX6AfdYu-PLZ2N57cLXzyhGvSiFSHRwGzh7d4Hm-ApAh9PA_P3HAori3uwbZhNwHll6KwYg6imSUUNmBj273hrgAuL4O9g.jpg')">
-  <div class="tgme_widget_message_photo" style="padding-top:100%"></div>
-</a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5055357845206205854"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></tg-emoji><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')"><b>🇺🇸</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87AEF09F87B1.png')"><b>🇮🇱</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i> آپدیت ۱۵ اردیبهشت:<br/><br/>هموطنان داخل ایران می‌توانند از این لینک و یا با اسکن کردن این QR Code به آسانی به فایل برنامه دسترسی پیدا کنند:<br/><br/><a href="http://plup.ir/download" target="_blank" rel="noopener">http://plup.ir/download</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> بهرامشید ۱۵ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
-    <a href="https://t.me/ProjectLeon7/11655" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
-  </div>
-</div></div>
-<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>67</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>11</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i>3</span></div><div class="tgme_widget_message_footer compact js-message_footer">
-  
-  <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_views">6.02K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11655"><time datetime="2026-05-04T21:28:53+00:00" class="time">21:28</time></a></span>
-  </div>
-</div>
-  </div>
-  
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11656" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NTYsInQiOjE3Nzc5OTA5MzIsImgiOiJlNDg1ZWJlYmE2YmQ3OTM4YzkifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
-  <div class="tgme_widget_message_bubble">
-    
-        <i class="tgme_widget_message_bubble_tail">
-      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
-        <g fill="none">
-          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
-          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
-          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
-          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
-        </g>
-      </svg>
-    </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
-
-
-<div class="media_supported_cont"><a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11656"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/XFhhcq0PemGidnGV51sdxeTv_RZ-kmd6LjkCHAg5x8qM-9OrL0H71JvHbCzeYm6n90nV29SIvz9YyRKECTi6ziwHylF4CSaDgLLvIQJmoxY21rGfFXe1Y4AYyWyNKU-t_s0Xq8J8SdKwG9FKTFgKv_48eFFqAQ0cCKkMqlM1_oIDALoMlCkEDcO7X8h4eMsfOiJ87nTp0L8yw3Bj9f__37C1qoGChwGiu7rKn4E0qbTRbOv1F2YnRsZon6-z6MhemrC2lH0CkRN_E6E41E0IVVY-0rVZBY6pAtCwjcO6UB-vn90FqAUtuPpWC3fqfQ-Ih5v4WDqp2UHOhsQiP6Ip-Q')"></i>
-
-<div class="tgme_widget_message_video_wrap" style="width:1280px;padding-top:56.25%">
-  <video src="https://cdn4.telesco.pe/file/e9e7a73477.mp4?token=Ax0WPFSdB0t35z1MEKCiCYbNOgUDkkwx-Lyk-_vn8clyyzSP5ayj_7TlPHBwboqaK0Tv5lqEkwQ8c83sDXWbTD56xsj1g8DU0o0Mfcs408QTWEhB8BB_3Jc4k-UHt9IMrYdqqTNbhcbj9hXkOPpfKqmOJ9_2ahWP6zzHLucA7Hqy6DMxuwWYXNWvVH11AJ_WqYOw4a7TR3FYzF7mn-A8idfmJkMKaq0asU8H1oc6la2pIoPEFLxR1MneEitNnvv5mS9jroMarJp5oUKb3uAM43YB1_O4J1owA7GSH2lEE0e9-rKRnj3_aeIzkuddoP592J1LQlnZgEfNiqZz7QuQtw" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
-</div>
-<div class="message_video_play js-message_video_play"></div>
-<time class="message_video_duration js-message_video_duration">0:16</time>
-<div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
-    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
-  </div>
-</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji><tg-emoji emoji-id="5139029370114933735"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')"><b>🇺🇸</b></i></tg-emoji><tg-emoji emoji-id="5379999674193172777"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94AD.png')"><b>🔭</b></i></tg-emoji> کینگ ترامپ : <br/><br/>«وقتی که مثلاً هشت یا نه سال دیگر از این سمت کنار بروم.»<br/><br/><tg-emoji emoji-id="5431771051065351913"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F98B1.png')"><b>😱</b></i></tg-emoji><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> بهرامشید ۱۵ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
-    <a href="https://t.me/ProjectLeon7/11656" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
-  </div>
-</div></div>
-<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>153</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')"><b>🤣</b></i>18</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡</b></i>12</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>7</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i>6</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F958A.png')"><b>🕊</b></i>3</span></div><div class="tgme_widget_message_footer compact js-message_footer">
-  
-  <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_views">6.18K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11656"><time datetime="2026-05-04T21:30:21+00:00" class="time">21:30</time></a></span>
-  </div>
-</div>
-  </div>
-  
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11658" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NTgsInQiOjE3Nzc5OTA5MzIsImgiOiIzYThkMzRiZjI3MjdjYjNmMDQifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
-  <div class="tgme_widget_message_bubble">
-    
-        <i class="tgme_widget_message_bubble_tail">
-      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
-        <g fill="none">
-          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
-          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
-          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
-          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
-        </g>
-      </svg>
-    </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
-
-
-<div class="media_supported_cont"><a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11658"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/lKYDuZh28-tRnZITMYaaCFNJYklCcIuJkMEejXiwiiVZbJkArRXz0jKkxMCfBktLz-O2dmF2uVOI441PaX-amnide8yosa9T2GuHbZzKli0LVGVCqX5EllnrG3ThtZPecXxBdBFCruds7_FqUEzlH-Iwvg-ZLkiP00UKFwZ92GxQc0LaX8ZPD0POAFq3sFJUxTB5U9ZBI3DvyW6bkT34hYIg99WnXxG7Rk3Wid_J0Xkn3ldcg2KPC7Zpy5tUxVsde6Y0panP3u5mrPpgcMVDju9KIXrZvABztoVY4mjNOsJi_mw70S4FkwPXjTi7CgSVSV3wg78pWH6xam05TcAJ4w')"></i>
-
-<div class="tgme_widget_message_video_wrap" style="width:1280px;padding-top:56.25%">
-  <video src="https://cdn4.telesco.pe/file/1bf00a3f85.mp4?token=Pb6eWpQlvnM5EdX1OYOS56UWYJHxJl7FzD-2NxrKpeTASGZNw1yget7ZYm7Td2v_gXIs59-Z_JGifdAhTJlb9-KZVtEgOPm50MzJoYcuS1hXVmdiSzDfUN94VY5JJ27iRBhS1rmWCD6_Cq6yDqgjte75Ul-hU5BjT0yVktAmeOG9UPXqWUSAxUVTvic6JCtO270wMkwluwDprXppWeULin7svAi0w6lAKrPSN7SG-1vX7M1W-F_9_dSqAS1ke7hx9rtRvSIFmVJ83Iw8tuJlKXJ4bpCNsnTDaEi12av6Sx94MkidoxLPjszjgM1ZuYqtifk6c6DhAFK7dFnRpaAAoQ" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
-</div>
-<div class="message_video_play js-message_video_play"></div>
-<time class="message_video_duration js-message_video_duration">0:20</time>
-<div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
-    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
-  </div>
-</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji><tg-emoji emoji-id="5139029370114933735"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')"><b>🇺🇸</b></i></tg-emoji> <tg-emoji emoji-id="5415825426633202840"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i></tg-emoji> پس از آنکه سرویس مخفی تایید کرد فردی در نزدیکی کاخ سفید مورد اصابت گلوله قرار گرفته است، گارد ملی فراخوانده شد و این حادثه تیراندازی باعث قرنطینه شدن این مجموعه شد.<br/><br/>سرویس مخفی ایالات متحده اعلام کرده است که این حادثه زمانی رخ داده است که مأموران یونیفرم‌پوش پس از آنکه فردی در نزدیکی بنای یادبود واشنگتن اسلحه کشیده بود، به سمت او شلیک کردند. به گزارش فاکس نیوز، این فرد به بیمارستان منتقل شد.<br/><br/>همیشه برای رئیس جمهور ترامپ دعا کنید، او با تهدیدها و خطرات مداوم روبرو است. <tg-emoji emoji-id="5409015472517553802"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F949D.png')"><b>🔝</b></i></tg-emoji><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> بهرامشید ۱۵ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
-    <a href="https://t.me/ProjectLeon7/11658" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
-  </div>
-</div></div>
-<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>176</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>30</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F958A.png')"><b>🕊</b></i>9</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i>5</span></div><div class="tgme_widget_message_footer compact js-message_footer">
-  
-  <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_views">6.69K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11658"><time datetime="2026-05-04T21:37:02+00:00" class="time">21:37</time></a></span>
-  </div>
-</div>
-  </div>
-  
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap service_message js-widget_message" data-post="ProjectLeon7/11661" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NjEsInQiOjE3Nzc5OTA5MzIsImgiOiI0NjkxODE4ZDhkNjQxYjlhYWQifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
-  <div class="tgme_widget_message_bubble">
-    
-        <i class="tgme_widget_message_bubble_tail">
-      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
-        <g fill="none">
-          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
-          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
-          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
-          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
-        </g>
-      </svg>
-    </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
-
-
-<div class="tgme_widget_message_text js-message_text" dir="auto"><a class="tgme_widget_message_author_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a> pinned an audio file</div>
+<div class="tgme_widget_message_text js-message_text" dir="auto"><a class="tgme_widget_message_author_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a> pinned an audio file</div>
 <div class="tgme_widget_message_footer compact js-message_footer">
   
   <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11661"><time datetime="2026-05-04T21:39:37+00:00" class="time">21:39</time></a></span>
+    <span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11706"><time datetime="2026-05-05T22:14:12+00:00" class="time">22:14</time></a></span>
   </div>
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap service_message js-widget_message" data-post="ProjectLeon7/11662" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NjIsInQiOjE3Nzc5OTA5MzIsImgiOiI0N2E0NGQwZjkzYjEyNTQ4Y2EifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap service_message js-widget_message" data-post="ProjectLeon7/11712" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MTIsInQiOjE3NzgwNjQwMDAsImgiOiJhOTc5NTU2NjZhYmJiZmMwNDYifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
         <i class="tgme_widget_message_bubble_tail">
@@ -658,20 +273,20 @@ project.leon.official@projectleon.net
         </g>
       </svg>
     </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
 
 
-<div class="tgme_widget_message_text js-message_text" dir="auto"><a class="tgme_widget_message_author_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a> pinned Deleted message</div>
+<div class="tgme_widget_message_text js-message_text" dir="auto">Channel name was changed to «<span class="tgme_widget_service_strong_text" dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;</span>»</div>
 <div class="tgme_widget_message_footer compact js-message_footer">
   
   <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11662"><time datetime="2026-05-04T21:40:44+00:00" class="time">21:40</time></a></span>
+    <span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11712"><time datetime="2026-05-06T02:29:33+00:00" class="time">02:29</time></a></span>
   </div>
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11663" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NjMsInQiOjE3Nzc5OTA5MzIsImgiOiJiMGMzMmMxZDdmYWYzNDFlZDIifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap service_message js-widget_message" data-post="ProjectLeon7/11713" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MTMsInQiOjE3NzgwNjQwMDAsImgiOiIxMmJkMDA2OTY1YzRiMDhlOTgifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
         <i class="tgme_widget_message_bubble_tail">
@@ -684,25 +299,20 @@ project.leon.official@projectleon.net
         </g>
       </svg>
     </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
 
 
-<div class="media_supported_cont"><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji><tg-emoji emoji-id="5210956306952758910"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9180.png')"><b>👀</b></i></tg-emoji><tg-emoji emoji-id="4938458868452688874"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></tg-emoji> گزارش ها مبنی بر این است که گروهی از ایرانیان نقابدار، خانه‌ای متعلق به قاضی‌ای را که در شهر مشهد حکم اعدام معترضان را صادر می‌کرد، به آتش کشیدند.<br/><tg-emoji emoji-id="5415825426633202840"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i></tg-emoji><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> بهرامشید ۱۵ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
-    <a href="https://t.me/ProjectLeon7/11663" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
-  </div>
-</div></div>
-<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i>308</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>92</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>45</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')"><b>🤩</b></i>16</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡</b></i>2</span></div><div class="tgme_widget_message_footer compact js-message_footer">
+<div class="tgme_widget_message_text js-message_text" dir="auto">Channel name was changed to «<span class="tgme_widget_service_strong_text" dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span>»</div>
+<div class="tgme_widget_message_footer compact js-message_footer">
   
   <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_views">7.18K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11663"><time datetime="2026-05-04T21:46:20+00:00" class="time">21:46</time></a></span>
+    <span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11713"><time datetime="2026-05-06T02:30:46+00:00" class="time">02:30</time></a></span>
   </div>
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11664" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NjQsInQiOjE3Nzc5OTA5MzIsImgiOiI0MjRkMDRjMjVkNDg5MjJmMjAifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11714" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MTQsInQiOjE3NzgwNjQwMDAsImgiOiI3YjZmZGVjNTY3NmJjNjFhMzgifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
         <i class="tgme_widget_message_bubble_tail">
@@ -715,37 +325,202 @@ project.leon.official@projectleon.net
         </g>
       </svg>
     </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
 
 
-<div class="media_supported_cont"><a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11664"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/eEhrYmK2ROLLO5HcfUWDj-5lRFGx7-rk6xxzzEapea4RXKgVHDDU6qBnh9Pi3jKvweDqAzodlolXeFFu8Sb-o0vKAP378TBxQ5Wn4-WriNR1OvXTTCxWIMlweCNiiXCIJhfj0wrbgNLZZVC5Cr98IxCwbts8fK_-_0MoNKIormdnyif2HIpW-kQFP_jYGv0WxQrKPxcm0IBgSg4_UfFNBHj4x1Rk-CQJuqsiuM5PuUtjdfnCCi9jnuhKVvQXASMXYbCgkLmOBUajDo3B3japiDAOCI1WAceM6ZV3tr1z2TSvNztwzCumuUYScK4aPXduj9RmMvRKivRyt3qpcrfpaw')"></i>
+<a class="tgme_widget_message_photo_wrap 6041673192289537422 1406686658_460000654" href="https://t.me/ProjectLeon7/11714" style="width:420px;background-image:url('https://cdn4.telesco.pe/file/Zl0myfusQb-Z2pRkBG9_bcX9Nu9C6SdwdJhrAJc6QCMBt9xP5wRlQm2OHkqLh5sP0cAPoTPEsEquFkROymgHvwyQgCP-hNElvSSbhuPbIqCsYaY_rnjwz0DBloSNnV_Yzzw9sOxS5P3sJTqU-2A5rd_kEwI6z5kFhmpw93VPvP24F8L7vGRz3hSoFfQjEdqIHk4xn8TnyVSu5Vh8F5g-fTtXxCu878AWROQVAOSmRZdxr831CpVfZHUwVFa7u1Cg6FEuS_jbDUQlylYlh-oaLaGmp_Xw0_oCCW8lCBxIC0SnNz1YdaTZja0vrP3cuxyz-M-2xzSBnZiq_22ojSrTNQ.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:100%"></div>
+</a><div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')"><b>🇺🇸</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87AEF09F87B1.png')"><b>🇮🇱</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i> آپدیت ۱۶ اردیبهشت:<br/><br/>هموطنان داخل ایران می‌توانند از این لینک و یا با اسکن کردن این QR Code به آسانی به فایل برنامه دسترسی پیدا کنند:<br/><br/><a href="http://plup.ir/download" target="_blank" rel="noopener">http://plup.ir/download</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> تیرشید ۱۶ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div>
+<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>37</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>2</span></div><div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">2.97K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11714"><time datetime="2026-05-06T07:21:47+00:00" class="time">07:21</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11715" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MTUsInQiOjE3NzgwNjQwMDAsImgiOiJhNWYyOTY2OTNkZTYyNDJmODAifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
+
+
+<a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11715"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/oGAYZ7GiX15hGOYYQccV39PIXiH1h4Sl-55VZBqzO1_0JeRPJ0NRSyFMWht8dmfvfA7N-kYzb04YRagkvVMb8CzJm-z7R8IbF17wN428P3aE34bOwajNqYD6ZpG9vL8t3F6yoUGMjr-Fd_AThFaUjkOkI6honX10qu_KdvsiokZaKfJhJEQZ7DnPVA3tQ98vRwYO2VwyH9qamF4wZeYas0TUjkxvX0koDiF61Ujo74vsl4dB2tTR8DTtKm9F9vi3If8qmPesdUr8dk5sNcPgy4VA1KVAlp-303teHQ2m4zNnwd_D7nSR2CtqsWfHrUpeKgsgxFF5gOR68jDJpab2Yw')"></i>
+
+<div class="tgme_widget_message_video_wrap" style="width:1280px;padding-top:56.09375%">
+  <video src="https://cdn4.telesco.pe/file/d16bb8da69.mp4?token=j-8ZqsoHnea5TXGxmwh2drjk2_D4LQ0oCeuFfuXPq7zNXNUV2Pyu72ww91Flc2c1RNOoPMAv1DzzD9PqEwWrRcuVZcDSswWADnjZ6ZD6dtRqDvCFwiOnONNwYS00hjHaBXAbn9_3MIP969GYZG7f4mi29RpZqmBCcqrZH79MtfJyZ6jWqw7PaVowNDInbpSS0i-hyfntt8wkCHbmDDMVxexaqYDZPrz8ftigw7WVXM-v6G3wGA08aSTKm0wFLHR8tgKLXyVpYE6_77c71aJL_wtbxusnkdOTOhL5hbNSGm_KJPSEbwmndQHv70UGNN7PUay2C4GNhO90P9vqzLErCw6zs-JO7MtrLgcogbb21EYM-B0cIlbqck3PfA5rGdpOVyRD38WzQ6h2FglexJyWI1xZXGcI5os4de4_4bdR4xXn5LWICqus-c2VU01NKv6wKrpdzGCuL841DkPkqE0mVvBq5-UijEizFj1sdTgwelNspL47xPDS1CKPgRATaZBYgnQcjx5y3l7hXSDjNcqlYIuGCw8LZqqkCWXcnHr2gsV0djjEKsH8mqwcpRu0q5-cF1e2vBPgXoog0I-XC8dDmoFoo9kUIwZRf_HWNdJg-y-IRIi_Y2-V-rVr15XGFilKCLYW7C5BzzNts8oe9oB3SdzFp6oa6eP4fSJD35M7WqI" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">1:08</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')"><b>🔴</b></i> ساعاتی پیش: کینگ ترامپ اعلام کرد که ایالات متحده به درخواست دولت پاکستان و چندین کشور دیگر، عملیات پروژه آزادی را متوقف خواهد کرد.<br/><br/>ترامپ در پست تروث سوشیال خود:<br/> «بر اساس درخواست پاکستان و سایر کشورها، موفقیت نظامی فوق‌العاده‌ای که در طول مبارزه علیه جمهوری اسلامی داشته‌ایم و علاوه بر این، این واقعیت که پیشرفت بزرگی در جهت دستیابی به یک توافق کامل و نهایی با نمایندگان رژیم حاصل شده است، ما به طور متقابل توافق کرده‌ایم که در حالی که محاصره به طور کامل ادامه خواهد یافت، پروژه آزادی (حرکت کشتی‌ها از طریق تنگه هرمز) برای مدت کوتاهی متوقف شود تا ببینیم آیا این توافق می‌تواند نهایی و امضا شود یا خیر. رئیس جمهور دونالد جی. ترامپ»<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> تیرشید ۱۶ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div>
+<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')"><b>🤣</b></i>65</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>19</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>7</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i>4</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F958A.png')"><b>🕊</b></i>1</span></div><div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">2.84K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11715"><time datetime="2026-05-06T07:28:40+00:00" class="time">07:28</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11716" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MTYsInQiOjE3NzgwNjQwMDAsImgiOiIxMDI1OGE1YTM1MjhiYzA0MzcifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
+
+
+<a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11716"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/SlmM8MnusYkiFI-M6u5hw-em2mP51Pi9B6Hxjk2LWB0I9UF34ACshDHWWnvtyfVlxIcbhKiy-F8Ff8AyZY7kaG0E4MGl8NQnIih8T3l5ATcNXk0Y6Qx__tFnesQb2gmJ1I1A-r6E_7__ztVp49URCsLE26zdKld54djSR4bBxfKNWljm_WBWyfvYC6NP3N9nbPcvS0SUFvUkW-PfVbfO13cdVYwua2id6-vQiN-3kyNNs2bWqk9c2q0Iy9qf4iE72-NC9XLiGsoa8ksKZWxyiAY0kr_Gf0CWQEa_7mR5GyEiqh3XAuNoifM3H1c69-cva1qXOAVKDnB83JivQ4uasg')"></i>
+
+<div class="tgme_widget_message_video_wrap" style="width:480px;padding-top:56.25%">
+  <video src="https://cdn4.telesco.pe/file/865314fbcc.mp4?token=AV62_xKrXSVYFaexe9RlbJ_66kqn8CxYRIWwbQuain4jYQt3K3IV6ad6FcZMN6y7eahMtCEePoxkZNTX4jBG-aQsJlDMPwGGN22dm0ZdKn57lRvd4Vj9Ya73G4OJGn34iz3c904nFDU2j3Xu32uGZkv_jlZMyUK6UsLf_MkDAepBnkKuwxkuxxOKRw3NZBKzF1i0bBYm_Gkee1GgxXqDPdQv-m-vVtR5J3ZTxgeNtlBxNt5eLZuYtvTh9ZTtZ-MM76zfNMq3zGMfaOSWRF9RGlvDf1eDuh2qdG4dTiBiJLlR-swKNwnyChir5MtksqSrrq0yDeinIJzxKoI10HWWAw" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">2:01</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i>علی مطهری:<br/><br/> داماد ما (علی لاریجانی) تو یه خونه امن تو پردیس کشته شد و هنوز نمی‌دونیم این خونه چجوری لو رفت.<br/><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> تیرشید ۱۶ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div>
+<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')"><b>🤣</b></i>80</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')"><b>🤩</b></i>4</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>3</span></div><div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">2.19K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Elihoom</span>,&nbsp;edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11716"><time datetime="2026-05-06T08:03:05+00:00" class="time">08:03</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11717" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MTcsInQiOjE3NzgwNjQwMDAsImgiOiJkYTMyZjRjYTJiMGQxZTkzNDYifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 6041893369492999537 1406737922_460000625" href="https://t.me/ProjectLeon7/11717" style="width:800px;background-image:url('https://cdn4.telesco.pe/file/p8yDofUiwWH12apGYu_xk-OmXzncBFjbCoarYG57P0SsDzRS7keSHjBz9zvF_sBW9HGELtFsGXli1Jr2yg9nQW5aphpichaQFKGNA8waGckIxvUAYKRmgkKxCVibQImdB9PzJvJHc2hS7jQkiKx3OSlbbp7qKpV8hLh8HFbg756B5kN_vWiwjWEEiu81U9qa5SS-5U7zigR7QZ9avbRxoQ2NLAeB4vh7MLHZ4cuwSb6EjP_IO2KzCEP3G5K9Awh3q_hicvwSunzNeXX06QemDcyyf5VrSa8989YDkcCj6_ysvhyG9wpxdjiOzzhRFI5id2vKh0ZUcSJoLmIsfXhWDA.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:85.875%"></div>
+</a><div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i>تیک آبی اسماعیل بقائی سخنگوی وزارت خارجه هم در ایکس برداشته شد.<br/><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> تیرشید ۱۶ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div>
+<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')"><b>🤣</b></i>63</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')"><b>🤩</b></i>10</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>1</span></div><div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">2.05K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Elihoom</span>,&nbsp;edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11717"><time datetime="2026-05-06T08:05:35+00:00" class="time">08:05</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11718" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MTgsInQiOjE3NzgwNjQwMDAsImgiOiI0ZDNkMTk0OWFlMmZiOTU4NmEifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
+
+
+<a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11718"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/j2NVutfYS4KhfVRps5nvyYWxvjCjafHotiuxSlGEUue8X5faH2-m1TjLoJlV2Wse47Gttao1EOw7VqsTaAgVoXFz4o8nr3CRG8nBuuqH-MdQsCm-pqt6m__L37sn8yxqWInz-NCZwPPXjhG1ehCP_jr8gpDyjRVIsnmMlfZKnHr0ZFZYCGYdh0Sw6EV_i10ZboGx_KEFr0JLk64dI8ABjO85J8jltysw2WwKq24SNSWk3DOx4Pm4iQo7R2m-vJepALOfSN948tioPQ2CTPvSw_Go5P3UGwAqGucHoC5vxmwaNKVQ1-eFo0krVjeo3xy0f4pQ-7m4VL9LY9ePzhTTeQ')"></i>
+
+<div class="tgme_widget_message_video_wrap" style="width:960px;padding-top:56.25%">
+  <video src="https://cdn4.telesco.pe/file/8cdc7f1d26.mp4?token=mbST8X-YaDJrvQOHK31UXQqFEzTdofztXiiXqV_oFe0noeLcU0RREKjipAxz3mZkxNoHI3KrGUOjHKNVaBULVsvtAVtrvfwQ9CwxzuGd8ySnmG7SktEoQiam9zCm14VQW8IQFuwJ6npqUUx_Ceylwwn0mlAPhr3udDYKXbOsRpg5BwCMN_-J88rIv2q0I1qxGkKpvuIi91DoHbRZ9uAmqkvb2t6r50xi91vuMrgTF7Q2B5WXScng5jW9SzeID6Ztvz-wFxXAnqMCB9cF4g2qZVdoEPgeVF9mUhGoIuMLa8lOb0so8nN2JYuWQXSpCnekuNFxC2nuYLHsVnSh7ZIECw" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:45</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i> تصاویر هوایی از آتش سوزی مجتمع ارغوان اندیشه شهریار<br/><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> تیرشید ۱۶ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div>
+<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i>31</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F958A.png')"><b>🕊</b></i>10</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>1</span></div><div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">2.01K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Elihoom</span>,&nbsp;edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11718"><time datetime="2026-05-06T08:06:01+00:00" class="time">08:06</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11719" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MTksInQiOjE3NzgwNjQwMDAsImgiOiI3ZDM0NGJmMTA5ZTZlOGFmYjkifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
+
+
+<a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11719"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/D6i4DCrRmwWajBC15tBV808TTQ3rrsSrl1PHGBpZ595EzHajzZ_NIAhXudxHw76gS3L4jd86iKH_ctlyhPL8X-9eLG6cj5Qrs1hy6NWYUGGZlSjf1LV25v3eVmPrEYvXpvFtyypv1DxPwBx65E4tA9IOY6XLpeW9QMDoKfW4bwIe6M5IYHsFGWG8VfssL0pQ0JyEVDLldmPmDHx2fe-xJrcBtsmeKmdgx53olXzk-2an2fykf_jWPoAWWnLJFUJkKMyhCc-mdSbYU_fjxIwm8PodbA8VIpUAO3SjdEHd546xYttnnjOyqSU_Q8RGs6S9qZr25WaF-Co78j-yv-tbQw')"></i>
 
 <div class="tgme_widget_message_video_wrap" style="width:1280px;padding-top:56.25%">
-  <video src="https://cdn4.telesco.pe/file/6b12502c5e.mp4?token=CVkyEyduXpAY9wb8bZh3xMpVYtzeruSTOfClr6bSoL_RYAAAFnkpkm4xaWdtcQNae-DiXuF6QJqXdH4PCkTJDxjfA6pDprbVgV7vu7IlZTFTrk1Kv3d0AGSWwkeYn6EA-fmtFHEOpITScSUKeKK4Foh3h2Yn5y6ASxUuvt-k6YRL74iuy0I49IRTL28t4MptwkvSerRY-1pWQdvVCtTvccnrJYTt-ivb5_0YjUM67I-hBry5AWiZfffckRocv5-IupYcbJxEV6gpkvZIvw_LouDzB1eANTwQQuO3j5s8vy9RQuFnydFRA3-slzCS3IAa9RaEbC6sBfhtEy4ZezmvbQ" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+  <video src="https://cdn4.telesco.pe/file/bb208a1030.mp4?token=XYiaCN8fJGeG8S5PXI9eNrLFro24fo_VZK-1fCEfjxV-sUKUoPjEZMdCcTuKSnLe2ZaHWjVLwncY5t_SoUiyEfIaU2UMY4KeJ6SPxXciP5wnDFG5MZGb9Lu1al2GsOYGxP_00elE3FzSTQP2eC4xgH0uMt2RL1oBwZzOLll2xbHOoStjzEAqjpdDfWTgkUn-H3Okwgj9rWU6QaYi-YFab4OFx_BM0LKZ7V6zECwWSKnqP9vvxcb7SL5ckU8vEyHPbVAwPk74w76NBp5st_kfXDDJzZUMPY26YbmpUOS6KTO4woLW15nbZNQHyRs-7WusKQ71HQeX5tlrFrP5IgaJIQ" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
 </div>
 <div class="message_video_play js-message_video_play"></div>
-<time class="message_video_duration js-message_video_duration">0:50</time>
+<time class="message_video_duration js-message_video_duration">0:42</time>
 <div class="message_media_not_supported_wrap">
   <div class="message_media_not_supported">
     <div class="message_media_not_supported_label">This media is not supported in your browser</div>
     <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
   </div>
-</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji><tg-emoji emoji-id="5139029370114933735"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')"><b>🇺🇸</b></i></tg-emoji> کینگ ترامپ : <br/>«آنها دیگر جایی برای ذخیره‌سازی [نفت] ندارند و گفته‌اند که ظرف دو هفته... یک انفجار طبیعی در نفتشان رخ خواهد داد که بازیابی واقعی را برایشان غیرممکن خواهد کرد.»<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> بهرامشید ۱۵ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
-    <a href="https://t.me/ProjectLeon7/11664" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
-  </div>
-</div></div>
-<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>84</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i>12</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡</b></i>1</span></div><div class="tgme_widget_message_footer compact js-message_footer">
+</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i>مارکو روبیو :<br/><br/> هیچ قانونی دردنیا نیست که یک کشور حق داشته باشد یک آبراه بین‌المللی رو کنترل کند.<br/><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> تیرشید ۱۶ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div>
+<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>56</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>10</span></div><div class="tgme_widget_message_footer compact js-message_footer">
   
   <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_views">3.88K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11664"><time datetime="2026-05-05T10:08:32+00:00" class="time">10:08</time></a></span>
+    <span class="tgme_widget_message_views">1.91K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Elihoom</span>,&nbsp;edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11719"><time datetime="2026-05-06T08:07:19+00:00" class="time">08:07</time></a></span>
   </div>
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11665" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NjUsInQiOjE3Nzc5OTA5MzIsImgiOiI0YjhhZDA3ZThiZjRjZGQ1MTAifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11720" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MjAsInQiOjE3NzgwNjQwMDAsImgiOiI1MDUzMDg5NzM5ZGE5MDRjNzQifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
         <i class="tgme_widget_message_bubble_tail">
@@ -758,37 +533,32 @@ project.leon.official@projectleon.net
         </g>
       </svg>
     </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
 
 
-<div class="media_supported_cont"><a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11665"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/ZbuJqH2YmyKhCtKMNInobFVgA1er5arPp72B01FQh_zS9-ehlsRiDbzTnyr9zdaUUfVteaCIVWSzsy_n-xfr9GY67PpbyY-jrnj2I0qNvCMS2MV8HSU-70Ft0CuyI1XxsMK8GD9hbJ_gif6Zu9dXlZTb9nUiLgQRR9bS-a-zqr-nmVmyqBJubBFh8j6YvySoq6lZ0ZpbLEta_IOrYZ9dZHC3cF8irLR3KrdQtIwXlHmZeNU8d41ImxU-y6WTEuieCcEF-sWfBaoju_wY4Ps7VChO3bFIDNUP3TFkFcrz0b9un-tlRUOjRRwdevYNNkscvbCfdczhsL_5bikhqlczJQ')"></i>
+<a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11720"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/ZRvJsUycx0mADTFU7qUaCQtYI3V0AX44V7SOm59sMYhmAIRTYmKQ8f-ssDbSxFovokIYPoGTfslif92HpGVRvBJ4YmOEHXqi0d3-EfwT8hP4LzeS-e7D7yG7T1tMzC_8ErqNTAvdjaWR26mmyskHak1rQSkMA6upJ71tLwS703INOV01H4bVtrIK5E7cl3IvZ0VM5gwc8phoTG57PemR5xGFP-IWkgar5u88zBXtYcHALJfjLh7oYoDrlPrHUhntRfeEwd3OxbOIVMKKOarzPk2wLVRk4Lq6KYUpHwO4mwE6yQ58OB9DVMz4Qx1LzGWw1nAwumEJfF87oL4NCM-fmA')"></i>
 
 <div class="tgme_widget_message_video_wrap" style="width:1280px;padding-top:56.25%">
-  <video src="https://cdn4.telesco.pe/file/2a7e7498a8.mp4?token=fIykj7iIu_3-hdw7SMcD7fkC86Z79E-yNgRXLSlH5aWVMc20Y8Q5lb4ZjPp0USRwpiNU9z_qnPzw2t7FOOn9oFR9waAHMl4X5H4MLHa9cC-hQMPvTSqODbNqsgKc807PwsnVCssSGQXH1X8Q_MtemX3JphEvqcIFPNK7W5UC_-ot0u4yIuoE6BmId1dmQ25wm2Q9J8uYZ0sv9oXh2EyXVuv_Ujt2SHOqEKTIkDxxWlUcIME1SeSj-imZKWWy2Kh-AeXB6UWMGm8mVSAFs7sVE5FEahX6LshhAmpawVi8K285pzfQH-aXNl-GVUPxOk21xNMEcLVv_iKjHZDVF_eRXA4D5Rw7uXbm8UbEcMBuXNJkt28pW3lgBlHENG45bPcTd76eN-IhsZWS8vHmhXz7iCa5lB6YnWLsHq4KF1S6J9fbuMWMS7oNCBxM1dZB-le1YjIM0LtqyZpgQAjogefPVjaGQeoWGLwSiTGgKHa1TIeUtsTbEb6JQoLeomYonC6rihh_Z6YkJDTRvIXNc-pO7IhGmck7zU__TdbJBfZSkTggf2w3ya-cLQeMmbYeeITwsOUADhoVQHnZ2AJtaQS7-ZXUkiQTD6fiZtR4dvDJFa96JTxXfCrx8BIGEHdDod_kbfXXH-HyE7Cb5CczflG123a_0SAsumvjU-nHacd69kk" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+  <video src="https://cdn4.telesco.pe/file/b9399d4471.mp4?token=Ztcp-qy4PPQlOW9M2ZjZaxzSgyXCqIkR6S73-k5lrxlFf47e17Ybf9-d8rFfTWlv8MF8v0jNEiXsjsSyXrfE7hDVazTWfEXDYnj7UWaVjyOJTz_iZLDha9QcsvAsU8O84A6SEN6H1ZYpVKB59byobFNPT9RVeVtRKw9EiveAKoeajs3g_Q7jAM17vujJ9sTaOhy2FETj4wzvCHTvXn5Bsso4efvTQd1TiCzlnoHFLnqlS9CzjBc_E0EOkFjcnCcrwI2zRNlIsyjdy1EAKMov_2YhrHRdRFmWxEcl4Mx3j5VeSdHIHKLKIMl3r2bqzNm2aWAKOkpfL7JrQIPb5nxBzUC52m4UqTLSTtnZLqBk3YudCnV51E7b2fkKxz6s_X_jGwl_I-_IRdftIQ7H11dH-29f6sFumLdZqWfm7-TXvc2fd4V7Zt5Fw1Jw_ER5rf2sttFK-c8Ugaryjon7RZFK6OL4NuLjDmAlu5WNCrKG5shcYy-t-RbWBSNakRMvs0kS8p2cuUbFqLgZBEdzgDIvhXRIv0eEw3feEtUd565WFYYkSRBcHtxM-Z9J73FwhMMrKFs1gpTE53MtVL5zPNrUnqSUc2JER-XGVSqeYm83c3xsBtLgF9N1ror0EAAXXCkeH8jNeO9bu8j_3sWiKPDTwali7qFeffBNEaw4luSNKRU" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
 </div>
 <div class="message_video_play js-message_video_play"></div>
-<time class="message_video_duration js-message_video_duration">2:47</time>
+<time class="message_video_duration js-message_video_duration">2:35</time>
 <div class="message_media_not_supported_wrap">
   <div class="message_media_not_supported">
     <div class="message_media_not_supported_label">This media is not supported in your browser</div>
     <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
   </div>
-</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji><tg-emoji emoji-id="5139029370114933735"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')"><b>🇺🇸</b></i></tg-emoji> <tg-emoji emoji-id="5341498088408234504"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92AF.png')"><b>💯</b></i></tg-emoji> جسی واترس:<br/><br/>عضو نیروی دریایی بازنشسته (نیوی سیل ), مایک ساراایل می‌گوید رژیم در «خفقان اقتصادی» گرفتار شده‌ است . <br/><br/>«وقتی حقوق می‌گیرید و خانواده‌تان را سیر می‌کنید، فریاد «مرگ بر آمریکا» یک چیز است، اما وقتی این فریادها متوقف شود، وفاداری از بین می‌رود» <br/><br/>«قدم بعدی این است که به شدت به آنها ضربه بزنیم. این است که به زیرساخت‌ها حمله کنیم. هر رهبری را که می‌توانیم حذف کنیم. این [وضعیت] تمام خواهد شد. این مدیریت تسلیم است» <br/><br/>«دموکرات‌ها ترجیح می‌دهند روی زانوهایشان زندگی کنند تا اینکه روی پاهایشان بمیرند. تقریباً مثل این است که جمهوری اسلامی حزب دموکرات را خریده و به آن پول داده باشد» <tg-emoji emoji-id="5415825426633202840"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i></tg-emoji><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> بهرامشید ۱۵ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
-    <a href="https://t.me/ProjectLeon7/11665" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
-  </div>
-</div></div>
-<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>95</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>22</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i>4</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A9.png')"><b>🤩</b></i>1</span></div><div class="tgme_widget_message_footer compact js-message_footer">
+</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i>مارکو روبیو :<br/><br/> -هدف پروژه آزادی اینکه نزدیک ۲۳ هزار غیرنظامی از ۸۷ کشور مختلف رو نجات بدیم<br/><br/> -آدم‌هایی که در خلیج گیر افتادند و رژیم جمهوری اسلامی عملاً ولشان کرده بمیرن<br/><br/>-بیشتر از دو ماه است که این ملوان‌های بی‌گناه وسط دریا سرگردان مانده اند.<br/><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> تیرشید ۱۶ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div>
+<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>37</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>12</span></div><div class="tgme_widget_message_footer compact js-message_footer">
   
   <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_views">3.94K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11665"><time datetime="2026-05-05T10:12:01+00:00" class="time">10:12</time></a></span>
+    <span class="tgme_widget_message_views">1.95K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Elihoom</span>,&nbsp;edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11720"><time datetime="2026-05-06T08:09:52+00:00" class="time">08:09</time></a></span>
   </div>
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11666" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NjYsInQiOjE3Nzc5OTA5MzIsImgiOiJiYmJjMWE1NTVlOTUwYTM4ZWYifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11721" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MjEsInQiOjE3NzgwNjQwMDAsImgiOiJjMDcyNWEzM2YyYjk4ZTgyYjcifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
         <i class="tgme_widget_message_bubble_tail">
@@ -801,37 +571,32 @@ project.leon.official@projectleon.net
         </g>
       </svg>
     </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
 
 
-<div class="media_supported_cont"><a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11666"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/FriMX4CyTvUGZYqX81J9qMnIbqJFk_hZmw1cBi8spCH4uosQfrd5X0qXlm9vrYHzNLb0JY1p1_yQLEMobnECyocIXnYxYA74iTyj_S0M3Op0SCc3YMMxUAhUA7eijFT0mYvOIaeCZITvT8bnj-EJYPxNOFoucdhSnOuAP6wquR0uCgTX79hpy-hEjdF6YU3BWCiLaqgAqEioV6Kg-Vzeoniy4wr3q35HjbujeXo8lxDX-SKp8pKdh5W95onaADoFy7EtmRQ51Kq66rGH-MMpAvNljdzV9osnNj46stQs99XAXFWKeGWypH5iJaCZhoiIpesNVxQ0-x7SbIdAz9urXQ')"></i>
+<a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11721"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/XUeAafC8vz0_kwOqrXy7n2r6e9A8tdi1l1zsBdmKxJ44w2GbRfuhG-5CPaNHXT-pB0_YfNjheVywOBdMKWjWXUKrbr-u8Eu92of4RqZRYKd9_COC28O0On2k6jVh_bIZ1TrmVKP4UkyAxZrS4g9q6zZpPIzkN82-0fJTrB3Eya_pnzu5RCBiuQfmfQxaZbP75NwSnn-rKcut2JMipuIdPeF1H6VIuRge3fDQIZ170JM9qVDk5BooTnBroEXC8SfV9cKvE4uJ7nBYTyur4bW_zCFoqfA5MnIk1xNMk7L5QfCv2tGGGy0U0RFxMjN8BqOTxECN2IQ6VPbDDtimltnVvg')"></i>
 
 <div class="tgme_widget_message_video_wrap" style="width:1280px;padding-top:56.25%">
-  <video src="https://cdn4.telesco.pe/file/a0e45bde3e.mp4?token=ki8twAW_UPU1jmxggX6c2PG1wEoaJLBDtrGBp1Zv8R3RXBM_YbH9cdJNEZAQ1tTBxM3oxQ8CSCzb_1BrpdehBm7jFkp7mwvAHg94U6FgucpRjr20tlKVtBymewWYpzrs3siHOLaudhMFJuzYKyD8M9wKgaOOQCxE0fZTHltJRMsL-ttcmX3iX9Rqlua1Obcl8UPbXmtGMQ_cz59WYEv6paAAPHC7vGJPIP88vwKhC-ifdJMnQV_uRZ_ySHsddroPl8lorwbgFNcr-oXyxN5NQn6Lsgxp6LBDFbp1UKRekR6dVEU_qCyx96LKby8qG20t9yZW_0rhGbYG_ObYYH8aWA" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+  <video src="https://cdn4.telesco.pe/file/e669510061.mp4?token=B32ZU7ecIj4yJilOOQyj9hZnZL55BdInMSfErpVFhVpBpy55jF-GjETpG16cw_8W1cxVSU1oEe-mbzID4ts3vIedliB5HlNUmM405Flv1mJMoyWuw8ivZeEKYnfzza9KT8LCOKTFLs4RyvYbtw9KJrUE48eadOPvFpTn7MtnzXZWmy70K3wiHOYdGKnpf6B1OSADMQ3_Im9FtEQjwdB6hyIxDmX8agCfxE45QNjAof2t1t7YXnTJjS1NE9CTHODRzk-dkyiDHr5sRT56J5GdfKeBr7ellt4qeW37ml3MDzoUHEMPz-y9q_nDKNORFu8G-VppBSDEl5y4gvdp6K2ISA" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
 </div>
 <div class="message_video_play js-message_video_play"></div>
-<time class="message_video_duration js-message_video_duration">1:05</time>
+<time class="message_video_duration js-message_video_duration">0:11</time>
 <div class="message_media_not_supported_wrap">
   <div class="message_media_not_supported">
     <div class="message_media_not_supported_label">This media is not supported in your browser</div>
     <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
   </div>
-</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji><tg-emoji emoji-id="5139029370114933735"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')"><b>🇺🇸</b></i></tg-emoji> <tg-emoji emoji-id="5395695537687123235"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')"><b>🚨</b></i></tg-emoji>کینگ ترامپ : <br/><br/>«به محض اینکه مردم ایران اسلحه داشته باشند، به خوبی هر کسی که آنجا باشد، خواهند جنگید. من فکر میکنم که آنها به زودی اسلحه خواهند داشت. دفعه آخر اسلحه های آنها را اشخاصی برای خود برداشتند . و بسیاری از نظامیان هم دیگر نمیخواهند بجنگند.»<br/><br/><tg-emoji emoji-id="5415825426633202840"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i></tg-emoji><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> بهرامشید ۱۵ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
-    <a href="https://t.me/ProjectLeon7/11666" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
-  </div>
-</div></div>
-<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>132</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>22</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡</b></i>5</span></div><div class="tgme_widget_message_footer compact js-message_footer">
+</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i>مارکو روبیو :<br/><br/>در سیستم رهبری جمهوری اسلامی ترک و شکاف افتاده است.<br/><br/>-از آن طرف هم، آدم های بالای آن حکومت، بخوایم مودبانه بگیم، انگار تعادل عقلانی‌شان را از دست دادند.<br/><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> تیرشید ۱۶ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div>
+<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>49</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>8</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')"><b>🤣</b></i>6</span></div><div class="tgme_widget_message_footer compact js-message_footer">
   
   <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_views">3.7K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11666"><time datetime="2026-05-05T10:16:07+00:00" class="time">10:16</time></a></span>
+    <span class="tgme_widget_message_views">1.95K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Elihoom</span>,&nbsp;edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11721"><time datetime="2026-05-06T08:12:02+00:00" class="time">08:12</time></a></span>
   </div>
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11667" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NjcsInQiOjE3Nzc5OTA5MzIsImgiOiJkYzdmMzM3NzgxOTFmYmU1M2IifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11722" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MjIsInQiOjE3NzgwNjQwMDAsImgiOiJiZjdlMWQ5MzJlYzY0YzZlZjcifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
         <i class="tgme_widget_message_bubble_tail">
@@ -844,70 +609,32 @@ project.leon.official@projectleon.net
         </g>
       </svg>
     </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
 
 
-<div class="media_supported_cont"><a class="tgme_widget_message_photo_wrap 6039628817921412793 1406210665_460000953" href="https://t.me/ProjectLeon7/11667" style="width:597px;background-image:url('https://cdn4.telesco.pe/file/pGl_njYxoyI8vJ_nIaCUOTszly49xTcpYyy3OkTXLP0WKfDwLi3XtR74dXfxTlMIU1JwnZf3FAkNsV5-ssBQ9Jym-QwTgNVIkXOBw7ttNoI8OrI03I4PrgL6cnAHBK-Zzb2xzl8z92dJJrDTjnUgoyFtO6rxOK0BqqH3BRri1G3DyjgBmQL0XuQHpd3b1QZRS5PI-nQQYvOOmdPg07zbV3DjkhOOL1XdGWZFm6tNQyUrRVccXEkUFLMSXBRehKM_ZZyj2FbxNiXGxTidgpyjcbVC_P01J_dU-x8alrYGx533CwqadLTnjIR_W4K0Qqeky3j5phDvwOL3LHGZNcTxuw.jpg')">
-  <div class="tgme_widget_message_photo" style="padding-top:29.145728643216%"></div>
-</a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji><tg-emoji emoji-id="4938458868452688874"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></tg-emoji> <tg-emoji emoji-id="5219862119209520083"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9295.png')"><b>💕</b></i></tg-emoji> رضا شاه دوم:<br/><br/>به همسایگان عربمان: منطقه ما بر سر یک دوراهی قرار دارد.<br/><br/>یک مسیر، جمهوری اسلامی را در قدرت نگه می‌دارد و منجر به جنایات بیشتر علیه مردم ما و شما می‌شود.<br/><br/>مسیر دیگر به ایرانیان کمک می‌کند تا ایران را از این رژیم نامشروع بازپس گیرند و صلح و ثبات را به منطقه بازگردانند.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> بهرامشید ۱۵ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
-    <a href="https://t.me/ProjectLeon7/11667" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
-  </div>
-</div></div>
-<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>152</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>19</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i>10</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F958A.png')"><b>🕊</b></i>1</span></div><div class="tgme_widget_message_footer compact js-message_footer">
-  
-  <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_views">3.81K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11667"><time datetime="2026-05-05T10:20:45+00:00" class="time">10:20</time></a></span>
-  </div>
-</div>
-  </div>
-  
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11668" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NjgsInQiOjE3Nzc5OTA5MzIsImgiOiIyMWQ4MmViNjUwZmIzZDI1ODYifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
-  <div class="tgme_widget_message_bubble">
-    
-        <i class="tgme_widget_message_bubble_tail">
-      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
-        <g fill="none">
-          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
-          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
-          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
-          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
-        </g>
-      </svg>
-    </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
-
-
-<div class="media_supported_cont"><a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11668"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/Cn0misiC-zu5_rVQx2mwKVc1BqZlmuL2G55aWMM9BklAcCA3X8pYNEx8xZoTxUttMy6y5pP2-mQ3Iuz3YB4nyoEnJsXi33kPuxStW8CJz8RPYDsdABl1iYNQYwsx2tnRayciLK_e6PJpxCSLwGvHAYRAoMnI3UcEvwjsE9ZJLZvlM1auFB-Anns4Yk_kEPQOyXSiiGbRYEbUfhJRkorE1PKgFSxAeRmoQh-WaBxK9-kLy1hq4H10UcRDnpZKZqPi2rXWTwXdaPmCwDErIuYHqfTY9ooCNeeynQGyRAT7ugW7ryccqX5j1_lyHh_MwZAdNPHyyKMS4g9pN8vdY1oX6g')"></i>
+<a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11722"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/vTsvG_xKH3TUqEgvNHu1buq0N72ouuFXUpx-nTasbgym_t0gXsfiSQpye0-pOul-KSU9a3arxa1i9n8hHQYmWPquhGDF4xMaJK_FtvumWKgEqNlN7IZQnx9lPz9mKkoDH9k4HPM-EN4lYBRXeQo5xvoQeIuguoOPtKQY5wwd0valjHrifzWxuYFVZB_90mAMbVQQiD638W0A9o72mPY8DvqIieNs2DLwrTuR2ua6T67V3DTzP7xUjgFbZGsvH0SpFdiJMx69pqyqg3EINsRhtTy132MG-1XyCW6lGIzbiUzUZ0yKGP8Or8ES3Neaw1OZ2jyA6LD7p7eUXqJOxDMZgg')"></i>
 
 <div class="tgme_widget_message_video_wrap" style="width:1280px;padding-top:56.25%">
-  <video src="https://cdn4.telesco.pe/file/91cc299eae.mp4?token=lvOP-eyMHKKbgqApsFjbR3o7Eq1YmfXluxUeaYAD_9ddH1uxbmwNMSPIwPw0_zImJzJYipsmxfJGr_GJbAR1Wf8BB638k0jVSENxvo3_lDoJLV3F2wx-IBB2LI5U490DspFe531DNXU7JDrqGxTW26cb2yTWD8Vn9gUm6oi03y3UfjDHG8TkBNoEOorl6reGkwY7xRXo515VbuOlbURek1TCdlYi7A8u_oVIrIzcpxyGa98EVpJiBTGRxEhVbcJnjdo2HYoOU4Q-tPYyv4VWQGEsyoHr7nLPvlSjE71Ctu0TZX4pm4iEMelecdgVtEUD8kz4-Y-lKcbCYKnZIz_gEQ" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+  <video src="https://cdn4.telesco.pe/file/bdb5e563af.mp4?token=Dr9xIB2ixfFsudp73RppFiLEW2MOd434fa0Yic0I7kvEQiFx255l1XHx9TGJirepC_3wQ6lRPAlNDCpBjnVIPh_VjduSaZf5m2E3lFkTIlGbSUoMqpFGewWYH81F2Jy12MDLqQX5uJt7Ur5zdfdU97H2Hn_I7WHJcVplcIUtOMUNm4hn7bQ4iZ-Q3itp87zRq9Ox4N2ebZVmSq_oNCwdyyJJlGuxqvRqbrXdlC4hZ8rBkgEm8cLroXrYfK57C3IjM-xMx3BDOeBFuv5Hwq3x94QVTm-NxZc6W1snuoT5U1vZjNGI2r4nKbBNNnQQDhc_fy8d3T9KTTlU-qO5Hv03aKz2n4O0YsqS1tvBIerRf0HnzDrCISq6HzDn6o4Dfmqfl1tA0IAUmsKOLPCzzEoDUNfud7ObPTRn6Z7FpdvGx2r_t6MNYOtSYVbSrxW5TfUUbv1dx945t36-VSOJlgra3W5cg1sdeEyFi_bbayUcTWzP1bMj0qz9W09axkbMhArXmXCCKUUR00X6iqBliT9JTc2nZH5DplmGNbrLuofL842S_rmhj7k6ebtaD-HVVCZLgWMCsRjlZ_FISVpUQAj1GDR2A6DRBFKZKjgrdMzEHNHOa5XwjBjik2E0cORHFLa3A85-8k6l8-phpUjQfUxQLdorMLlPlK9vr9Mlyw5uo8A" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
 </div>
 <div class="message_video_play js-message_video_play"></div>
-<time class="message_video_duration js-message_video_duration">0:17</time>
+<time class="message_video_duration js-message_video_duration">1:59</time>
 <div class="message_media_not_supported_wrap">
   <div class="message_media_not_supported">
     <div class="message_media_not_supported_label">This media is not supported in your browser</div>
     <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
   </div>
-</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji><tg-emoji emoji-id="5139029370114933735"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')"><b>🇺🇸</b></i></tg-emoji> <tg-emoji emoji-id="5220214598585568818"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')"><b>🚨</b></i></tg-emoji> سناتور لیندزی گراهام : <br/><br/>نیازی به حضور نظامی آمریکا در ایران نیست.<br/><br/>در عوض، یک راه حل مبتنی بر متمم دوم قانون اساسی، شانس واقعی برای بازگرداندن مسیر واقعی به سوی آزادی به مردم ایران است.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> بهرامشید ۱۵ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
-    <a href="https://t.me/ProjectLeon7/11668" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
-  </div>
-</div></div>
-<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>136</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>26</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i>10</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡</b></i>2</span></div><div class="tgme_widget_message_footer compact js-message_footer">
+</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i>مارکو روبیو :<br/><br/>-عملیات «خشم اقتصادی» هنوز دارد تا تهش به حکومت جمهوری اسلامی فشار می‌آورد و همان اقتصاد نصفه‌نیمه‌شان بیشتر درهم فرو میپاشد.<br/><br/>-هرچی این درگیری بیشتر طول بکشد، دست آمریکا بازتر میشود و جمهوری اسلامی ضعیف‌تر میشود.<br/><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> تیرشید ۱۶ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div>
+<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>39</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i>9</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>5</span></div><div class="tgme_widget_message_footer compact js-message_footer">
   
   <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_views">3.93K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11668"><time datetime="2026-05-05T10:21:50+00:00" class="time">10:21</time></a></span>
+    <span class="tgme_widget_message_views">1.93K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Elihoom</span>,&nbsp;edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11722"><time datetime="2026-05-06T08:15:00+00:00" class="time">08:15</time></a></span>
   </div>
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11669" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NjksInQiOjE3Nzc5OTA5MzIsImgiOiJjZTM0YmU5NzUzYjlmZGJmZjYifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11723" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MjMsInQiOjE3NzgwNjQwMDAsImgiOiJhYmExNmUyYTk4MzMzYjVkYzUifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
         <i class="tgme_widget_message_bubble_tail">
@@ -920,37 +647,32 @@ project.leon.official@projectleon.net
         </g>
       </svg>
     </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
 
 
-<div class="media_supported_cont"><a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11669"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/lhnInjBDd4VnoO_WhAcYPjbgjdVGJIYXbYbJitIdmtfU_5LiZh61jtL-FKrtXwx5VsuF0MzpLtQ7uzySxXdzAFsOkA3Ja75cFbTSmifM6BRwi1lPV0C7GmkkUa6f8Z0q-rGbXP_i2WL5WXfWHso65r0BejmiNyGF_8UiOTuG-utVy8X2mmSRAKJmio1VxvwgamlunxvL84bhWmOYhLzmpJ3VOuv5S1KfHhniZN6Ppi7vN5scKi0cIgCQlPQ_5aLfJfiiFrlNzy3-jqYXWabMZ-t8VnJlqfPoOH5012Z2w-7lTuUwJDpWARpHUepp2pu4rYoBVJXnYUbuV_gL2jQ1ww')"></i>
+<a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11723"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/v-752JTpVEDegcs9KL8DU1gyDCTPSA7z6JqkU0t6NePk6ibKOuq15m8TBNIsZMQRiqkMXnagMQT-RBI8yez_fPmJAFpLxJJV3iak3rWKYaPVzWlAMBtPFwu9Fldxqy0Kj_vNIVd2cc0sOrKIdx7UV-4G4XEfM3ZnEevSBxHOgeUiH0OhhLeW64rrJL5wkQrUmBAXp5gO3lIzu2XK1nAeoxV0l2HIn785i24dopYrlRhpl5MSIlJNToQZYamXqVih0fSvfJ65bMGg13gJOeXJ5mXaHTUi0uOZOQxSq0wPeJoxU-jxooHoMRnYM9vjmbbJbp5qc2C4tlpHIi4F1ZFOZA')"></i>
 
-<div class="tgme_widget_message_video_wrap" style="width:1920px;padding-top:56.25%">
-  <video src="https://cdn4.telesco.pe/file/a16f7b6f88.mp4?token=tiYTn2DFrWYC7i52BN7L50T2thFnxaLBHyjMJP_XVamuCXjPdyRujoD-HsgZiBlJ2wkpOhl7EhQ82IkeI0qvPOvJBk6ZN8Iy-ISrIi5j5NQy6m86dLZG3DZyS_NG0R9eNGQmLK9OO677DEWDd0AdrZFkPIBM6Z_sExchQsAzsrYUuPdUmIGKv-CSGx8wuInXTCdTuU8DTO4YJYljLgnkVk8uTbqqkIalWe1WYy6PRZcmauNYlfVIPV5hyXvtNs0TC8XUKjhOfQldxOlkUULx8vcpmsGtrcVp1GXkTWeIobpSijZp222-sx2YJTwVtsJ0_OXEg6n3YkAvQceFLervBw" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+<div class="tgme_widget_message_video_wrap" style="width:852px;padding-top:56.338028169014%">
+  <video src="https://cdn4.telesco.pe/file/ec4ee8a019.mp4?token=SySkbJw7rrTogoQCAHv49262EykJZbx7Ziq8dpu_M0WDmXh4Y9WbG8g6XJpZW0g6sXQyvdQpLoML6gVjGvSH7UwLMxmbj4m4OYzvb0_3Jsc3hgW56XGxPboURGKLaFLcPURHXmXETlIJIQ47oM5CvskU2gUczMwebJVJB8WNO9dj7yx7zRSXmgXmu7SQXH04F7ymf5L0wXNZY9SNLzsMoOd9q6VzNEpXbsvgMaHlegpSuwRRTHeytzSh2nL85SzipJrsTuc-H8a633bSRbmxXxsxEbQn-uLPpQQAg-Dyo-WhLDgGXyo5X4hnfcLZCBIm6BscQTG9T8lj6y4P-HI-CQ" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
 </div>
 <div class="message_video_play js-message_video_play"></div>
-<time class="message_video_duration js-message_video_duration">0:40</time>
+<time class="message_video_duration js-message_video_duration">0:33</time>
 <div class="message_media_not_supported_wrap">
   <div class="message_media_not_supported">
     <div class="message_media_not_supported_label">This media is not supported in your browser</div>
     <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
   </div>
-</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji><tg-emoji emoji-id="5139029370114933735"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')"><b>🇺🇸</b></i></tg-emoji><tg-emoji emoji-id="5341498088408234504"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92AF.png')"><b>💯</b></i></tg-emoji>سناتور لیندزی گراهام می‌گوید کنترل تنگه هرمز «کیش و مات» خواهد بود و کارزار ترامپ علیه رژیم را قاطع و نزدیک به خط پایان می‌داند:<br/><br/>«من ایده توانمندسازی مردم ایران با سلاح - یک راه حل به سبک متمم دوم - برای دشوار کردن زندگی سپاه پاسداران را دوست دارم. اینکه توسط آمریکا بمباران شوید یک چیز است. اینکه مردم خودتان به دلیل خستگی از سرکوب شدن، عقب‌نشینی کنند چیز دیگری است. دوم اینکه، تنگه هرمز تنها چیزی است که باقی مانده است. این یک کارزار درخشان توسط رئیس جمهور ترامپ و ارتش ما بوده است.<br/><br/> برنامه هسته‌ای رژیم نابود شده است. توانایی آنها برای گسترش تروریسم فلج شده است زیرا از نظر اقتصادی به زانو درآمده‌اند. اگر بتوانیم تنگه هرمز را کنترل کنیم - اگر بتوانیم کنترل را پس بگیریم - کیش و مات است. این ماجرا تمام شده است.»<br/><br/><tg-emoji emoji-id="5276032951342088188"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F92A5.png')"><b>💥</b></i></tg-emoji><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> بهرامشید ۱۵ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
-  <div class="message_media_not_supported">
-    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
-    <a href="https://t.me/ProjectLeon7/11669" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
-  </div>
-</div></div>
-<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>106</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i>14</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>9</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F958A.png')"><b>🕊</b></i>4</span></div><div class="tgme_widget_message_footer compact js-message_footer">
+</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i>مارکو روبیو :<br/><br/>-در حال حاضر شما کشوری دارید که به طور غیرقانونی ومجرمانه یک آبراه بین‌المللی را تصرف کرده و کشتی‌های تجاری را منفجر می‌کند. نمی‌دانم آیا مردم درک می‌کنند که این چقدر ظالمانه است یا خیر.»<br/><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> تیرشید ۱۶ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div>
+<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>49</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>10</span></div><div class="tgme_widget_message_footer compact js-message_footer">
   
   <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_views">3.54K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11669"><time datetime="2026-05-05T11:09:21+00:00" class="time">11:09</time></a></span>
+    <span class="tgme_widget_message_views">2.01K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Elihoom</span>,&nbsp;edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11723"><time datetime="2026-05-06T08:16:44+00:00" class="time">08:16</time></a></span>
   </div>
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11670" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE2NzAsInQiOjE3Nzc5OTA5MzIsImgiOiI3MDhkNTRiYmEyODhmODcxNmIifQ">
-  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="پ"><img src="https://cdn4.telesco.pe/file/rvj-VNuFIa014xacLbBmSoz1_Vql5tnNZyz3h9EkTKWuW2oA7-4xH1GgWb9i6itCO6ZLHg79r2DiJMhxhmJKqV852fiCz11vi6XZ2H8GIDqmwLgRmUDwKthNLEgUs6WKSlboakd2wP6QOfY0AZFw_5e5RJ0EBA1IFR6oFmAb2Edgo6Rx1YlPCgnxxAP-AWitiqsVaabUGrbDgnwB-QPbQtgESNx2h-qjdHyNxGzuG9m48dd03-iYAn-op6QOhhdJvT0byHrUjhVuP5LXdQUkIVvbu6JkKeyYq9Z1snDWcU8uTJRrK89Oy05hUUY4cBds7zKRnSNd6WjFhSF0a9ZdyQ.jpg"></i></a></div>
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11724" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MjQsInQiOjE3NzgwNjQwMDAsImgiOiJhZjYxMjExNTBlNjhhYjA2NjMifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
         <i class="tgme_widget_message_bubble_tail">
@@ -963,16 +685,224 @@ project.leon.official@projectleon.net
         </g>
       </svg>
     </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a></div>
-<div class="tgme_widget_message_forwarded_from accent_color">Forwarded from&nbsp;<a class="tgme_widget_message_forwarded_from_name" href="https://t.me/ProjectLeon7/10784"><span dir="auto">پراجکت لئون:اخبار جنگ،در لحظه</span></a>&nbsp;(<span class="tgme_widget_message_forwarded_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>)</div>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
 
-<a class="tgme_widget_message_photo_wrap 5958759578784697506 1387381828_460000418" href="https://t.me/ProjectLeon7/11670" style="width:800px;background-image:url('https://cdn4.telesco.pe/file/ZokHVfAg-2JhesjwX9nng8Wjxsnva0_hm1-UB4kdcDz9hNfbwoUkh7llwmV1KbJwxvmB8ffIuQ3RrT10pgkxQ4nrWS6praUHHoOcb-EfVc8ZAWGlLuG32owTX5fTdh7Q1bVg45ifIqmSPMn66_rzecU5lnjAOut1Bbx-z41QeC5IeGMz4LkRUZHjgUoKg4p5FxFaRd1GLOQkREszsLzIYHQyUnNoEPqlfmc2vvm_WA5R0D54nTI6XXQw_toUsROERlVyL_HPXH-vmtnr_QPhU5ewWQzkbaNs02Hp2aZEPkOH--BbJD9Qlz5JN8VEsFWOb1zTdT4GgplBEifgRvk5lQ.jpg')">
+
+<a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11724"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn1.telesco.pe/file/X6o0pgC1HBNveeFXHhzBkLkmIXFL63CKN2ZdMq36k2tOO68oyZtJNI057UYZq0gVatd1LUyIlmJSoOxYvZ8Fx65ZqIwdiJHSIuJePbzju7rnmQwfSjY_bDKJqsCqv9gnvKY28Q4xxEyKMRllx0vCnBm2n1kUyMG0GmoXBVVAT1_5HLsSxWmYoMYEa6wmf-N-l5dVx4EyFZ7Zck8uPXiZuCeIDoOCe-GpOVXD62_mYXnQKx7DsgxZT8ScxUzwq9XamntHIVN3JFkOTu5xj3ZnN8gQ4hrroBfRKElo9UO_Zc0IX5PtKRffEeLqDVoSmuebu347fXnXdO_hf2oBJJ1k3A')"></i>
+
+<div class="tgme_widget_message_video_wrap" style="width:640px;padding-top:56.25%">
+  <video src="https://cdn1.telesco.pe/file/d2023a70cc.mp4?token=b8P7h-mE08cok2uGW5uo2hStY1dNk3hj5JpkhtxOSXHPgAvD9sPKgNW_EgsB-zFEXDegqztP8YXb83r4n5eKwDSM9jFBYmrbmaQEANYa6eNyFJ8DHIyniHiahmW1i1UFfqMOA90eBnu_P3L2yhjex4BQCl3zeAPkYUagzdlerRSfjLyC9YuA7Y3Hd8FapdR9dn4vF63jyftU7tdaUUV9sDBbnyYJLoQ87J15j3OmkIKaVxrwbddYogYOEURxa99RUxeJIztvSBZO1Q0hm9-CnDKN4FZbx44vZQWJZ20_ZUJ2K6JmR3wO1jh0xfEqFsvmi9qnJvmmda695jF2AdGvZg" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:28</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i><b>مارکو روبیو درباره محاصره بنادر ایران  توسط آمریکا:</b><br/><br/>هر روز که درگیری ادامه می‌یابد، اهرم ما افزایش می‌یابد و جمهوری اسلامی ضعیف می‌شود، به‌ویژه زمانی که محاصره همراه با تحریم‌ها را می‌گذراند.<br/><br/>-زمان آن فرا رسیده است که جمهوری اسلامی یک انتخاب معقول داشته باشد. اما انجام این کار آسان نیست زیرا افراد برتر آنها از نظر مغزی دیوانه هستند.<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> تیرشید ۱۶ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div>
+<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i>37</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>12</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>6</span></div><div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">2.1K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Elihoom</span>,&nbsp;edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11724"><time datetime="2026-05-06T08:19:20+00:00" class="time">08:19</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11726" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MjYsInQiOjE3NzgwNjQwMDAsImgiOiIzZTUwNmJkZjcyM2QzZDczOTQifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
+
+
+<a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11726"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn1.telesco.pe/file/jrHksoYx0fW_rpLTe6Za4gVzi7zKB_TB8QEM4DJlPbbxQncOvHngQ5qGWpIdYpSiD9tREicWvyxrNpygSqqfswv5VcnO0F_AgvZzfFkp6CCx3t1lOUcB70784iv1-pRGyCtU3Yq1BRGgx3v1Yaysr-SkTYpP0bxkMSkd1TId4GFU45XMrZaqe3dSVUV9n03Edr4UqpfZTftg626s2ERCOoYLHFBCm9QxjHon0AXzS_uCmed-ZH1gM5RQk-rWwvZgUmsLUP75rWPUFMcVp5Wq9ii_G_DGkkzEX97knTLEBsQBaUFZ7HZjP5XEKAE9THN1gsDfKx5X8j8bpJNcC2qzRQ')"></i>
+
+<div class="tgme_widget_message_video_wrap" style="width:1280px;padding-top:56.25%">
+  <video src="https://cdn1.telesco.pe/file/33e859f02b.mp4?token=SoVg7OWqzKhGykM5fya8sva7h2FheVc5t9FzmQ6535rXe4_4Dno4QZwut-LOEa_fvcgldGa1ZoEZhiH6Ot4OYJuUKwBosAZZIw0hnfSItbvrS1oyDrQMw8Lh-yRfuwPpWlqWFsy6ayf2v1mBKvwgPF7FBU1MAnetZlvjgr6KTS3DC_AmtqLZC_ERvRb0afjgYArKnUxcGDqkQmezb6RjXWgi5QZU754nd6YxwFKnsuf2DR-nIRHSKkeVpWPouV3y7Kkk5xqEgV9Ij5P9jzY0V2gGnKv1pZ5OzfyjoRR8nzezxFJmjEjEyyfvazq9E8u-JsnwGwvFSa4eO6dW--2e9w" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:43</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i>مارکو روبیو در ماموریت بشردوستانه &quot;پروژه آزادی&quot; به رهبری ایالات متحده:<br/><br/>«این یک عملیات تهاجمی نیست. <br/>این یک عملیات دفاعی است و معنای آن بسیار ساده است: هیچ تیراندازی وجود ندارد مگر اینکه در ابتدا به ما شلیک شود. ما به آنها حمله نمی‌کنیم، اما اگر آنها به ما حمله کنند یا به کشتی حمله کنند، شما باید به آن پاسخ دهید.&quot;<br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> تیرشید ۱۶ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div>
+<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>42</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>7</span></div><div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">2.27K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Elihoom</span>,&nbsp;edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11726"><time datetime="2026-05-06T08:22:31+00:00" class="time">08:22</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11727" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MjcsInQiOjE3NzgwNjQwMDAsImgiOiIwY2M4MGFmZDI3ZWFhZmE0NzQifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
+
+
+<a class="tgme_widget_message_video_player js-message_video_player" href="https://t.me/ProjectLeon7/11727"><i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/rvHRUqlWGqz7axk5wfrfOnTLbJ8-eqMFIYzabEg0QWlzGK1X4kn-J5xh9Nxn0d3IBMwoRqXa1Le8EyKGVOk_LIV4O1ONYRY8aoumiQ9tx_KO_ctXWvc2WV2hMvvPWp6bUsuZigLlWNCJW1A5yy6sj6O_YT4I53dTJFAsT4xkxy_Yg3UbQ7Br0aKp6D-7rjFyeappI8YEg3Kyae7Y98FxX_hc9-soD7537hBvOLhncCZgXFzxRUfItpN2DK-HABZ3ZajXn3qljxpYhQCdQmUMBHocPwezwFMvYXQOK-ra9PqKUxQOzXSfS6rIdfNb2zRLh5f39eFU75965Pf91G6FRA')"></i>
+
+<div class="tgme_widget_message_video_wrap" style="width:1280px;padding-top:56.25%">
+  <video src="https://cdn4.telesco.pe/file/91e7c93368.mp4?token=otTod6rajqFQApRBZyjOwsZ8vEJQiaFecXSpOjif2WBQhUElBsC9t6wF_pZVZUFGiEVQKAMPqkvHsdtPLYtpGQ-5H2dmAitwE0UTlYYGNA2dbFT7WVZUmf2ZXKuAXLugkECTvh4jP0NcnR_rJ312DZKCtblA6eBXr-wSUDM2ThJS4ylSPHiglatex2cD7MrNVgUPnWf01HAe6Met4vVBf3v1jHLBxsXGc04xlZmttWLmSJWHxse56qka7C4t_MuqOBCTstCMxJdBouEtbwC9PgXELFlPisKHy2XoZxT7zknUzCRblMMoAiN6HkIegKaagjRMMb9DACulKPYyuxcCcg" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+</div>
+<div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:14</time>
+<div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+    <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+  </div>
+</div></a><div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i>مارکو روبیو:<br/><br/>-باید قبل اینکه خودشان را نابود کنند ،یک فکری کنند.<br/><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> تیرشید ۱۶ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div>
+<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>45</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>8</span></div><div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">2.33K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Elihoom</span>,&nbsp;edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11727"><time datetime="2026-05-06T08:23:53+00:00" class="time">08:23</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11728" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MjgsInQiOjE3NzgwNjQwMDAsImgiOiJjNTg2MzExNzIyYTFlYjNlZTYifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
+<div class="tgme_widget_message_forwarded_from accent_color">Forwarded from&nbsp;<a class="tgme_widget_message_forwarded_from_name" href="https://t.me/ProjectLeon7/10784"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a>&nbsp;(<span class="tgme_widget_message_forwarded_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>)</div>
+
+<a class="tgme_widget_message_photo_wrap 5958759578784697506 1387381828_460000418" href="https://t.me/ProjectLeon7/11728" style="width:800px;background-image:url('https://cdn4.telesco.pe/file/toalF3DJEQzGggghg5QaOzKNucp1wOgT2QYsugJd1iUnmN-CtCg7Dg9kLPBbiKtP4vjy8iIDujBTvJNRtD1nd7Oyb6zXgrAHBdIA_GDpCtfCV-wr8a9ztzaNZ7FCwrcBnbFWn4ZmDAszAKF36B-irGbEGh_pgCGhUNWG4a2xyGb2z0Q36RvRK838OBenipx0AEYk1fpRuGYb_HA9aln4T-CWzdmlzyfztDbFQcHEowByIFc3OSAgomCXg4aI8U1_lN_HL-y79mIW6mxybS5To7E2DvDQOTK_dw4esr3FczJGgRISfjQRksu690997eslvmm7kW4YfNByCBPTB3HMVw.jpg')">
   <div class="tgme_widget_message_photo" style="padding-top:100%"></div>
 </a><div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i><b>مهم: <br/></b><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9188.png')"><b>👈</b></i>در انتهای پست های این کانال تبلیغاتی وجود دارد که از سوی تلگرام به نمایش در می آیند. <br/><br/>پراجکت لئون <b>هیچگونه</b> قرارداد تبلیغاتی با گروه و رسانه ای ندارد و نیز مضمون آن را تأیید نمیکند.<br/><br/>تبلیغات در این کانال، کار بوت های رژیم است، دنبال نکنید&#33;<br/><br/>با سپاس.<br/>پراجکت لئون</div>
-<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>34</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>7</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')"><b>🤣</b></i>5</span></div><div class="tgme_widget_message_footer compact js-message_footer">
+<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>18</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>6</span></div><div class="tgme_widget_message_footer compact js-message_footer">
   
   <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_views">368</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11670"><time datetime="2026-05-05T12:16:27+00:00" class="time">12:16</time></a></span>
+    <span class="tgme_widget_message_views">310</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11728"><time datetime="2026-05-06T08:57:25+00:00" class="time">08:57</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11729" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MjksInQiOjE3NzgwNjQwMDAsImgiOiJkYzU1OWEzY2I2Y2YxM2M5MjgifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
+
+
+<a class="tgme_widget_message_photo_wrap 6041792691164613934 1406714481_460000558" href="https://t.me/ProjectLeon7/11729" style="width:588px;background-image:url('https://cdn4.telesco.pe/file/er56zvTpO72sBVrXYK69WsnbgBp7x_ZS0inMhLsBWn33iDy_pN601GA2UiS2ruYhb4XKC0vvxtDmSkFUVtmVVqsdJqQDFg97QUTe_qThKhg88wlVm-6gs3_2W-t91uBmZ7tRGgVqT-ZnAg35kGFYiaP2qgV70aS-7PDKVD23ZE1TK41KxcelE6veWlu672hlUPhErKLDt4zqIIwCQf-uWeDSgnJNEAEd2Rn9v_T3TX75RDRl2ycAgAgw01r79T4Nj6ExEPhYVaLL3LzGHtpD2-MbqZ5vJD4rV5b1xorKr9XMWbOYMys3awwrd1O3ufUGsRM6cRpnqkYUouxuwE_OCg.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:66.496598639456%"></div>
+</a><div class="tgme_widget_message_text js-message_text" dir="auto"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i>زرشکیان: <br/><br/>ما مسلمان‌ها قبلا تسلیم خدا شده‌ایم و هیچ‌کس دیگری نمی‌تواند ما را تسلیم کند.<br/><br/><br/>پ.ن: جوک روز<i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9882.png')"><b>😂</b></i><br/><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> تیرشید ۱۶ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div>
+<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')"><b>🤣</b></i>78</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>4</span></div><div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">2.12K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Elihoom</span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11729"><time datetime="2026-05-06T09:01:50+00:00" class="time">09:01</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11730" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MzAsInQiOjE3NzgwNjQwMDAsImgiOiIyOWVmNjY1YmEwNzUyNjk5YTEifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
+
+
+<div class="media_supported_cont"><a class="tgme_widget_message_photo_wrap 6043924992103223177 1407210946_460001161" href="https://t.me/ProjectLeon7/11730" style="width:680px;background-image:url('https://cdn4.telesco.pe/file/VxY6XIrSxmE7NNepkLBwokptd9_kGs4PBi7hIgAxR7IAFOnR55N19GVlFYl7PftEDTkVQVhSaM9OdEroZpYKtJZCWibzA0ZVNxYg7o0XBFgoUA3hLihv1QwqiLNgKo3rEPAwQ8d1jxfNBt0cEDeh1SefIdU7D_9beteB8dMQyc-Km6MUuZVISHKr0o7h7Q-2HAzmF4ToK3XAKrD1CRXEHxa5vPx6HJHmtZvvPkPdkEQoiLOgdC-wv2BrXPYQs0szmy5foc040D8gQuVguJopkYjwCqmmC4ioG0UUeROpXwHA-B2ugps5KJ0dn2xCX5armXlWRgI31Nmjk4ZgIaXO1w.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:66.764705882353%"></div>
+</a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji> <tg-emoji emoji-id="5388632425314140043"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9488.png')"><b>🔈</b></i></tg-emoji><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87A8F09F87B3.png')"><b>🇨🇳</b></i> <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F87B7F09F87BA.png')"><b>🇷🇺</b></i> وال استریت ژورنال گزارش می‌دهد که چین با وجود تحریم‌های ایالات متحده، قطعات پهپاد بیشتری را به روسیه و جمهوری اسلامی عرضه می‌کند.<br/><br/>این مقاله می‌گوید قطعات پهپاد، مانند باتری، کابل‌های فیبر نوری و تراشه‌ها، توسط تعداد زیادی از شرکت‌های کوچک که در معرض تحریم‌های کمی قرار دارند، فروخته می‌شوند. <tg-emoji emoji-id="5406745015365943482"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E2AC87.png')"><b>⬇️</b></i></tg-emoji><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i> تیرشید ۱۶ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
+    <a href="https://t.me/ProjectLeon7/11730" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
+  </div>
+</div></div>
+<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29AA1.png')"><b>⚡</b></i>29</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>10</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')"><b>🔥</b></i>7</span></div><div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">2.18K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11730"><time datetime="2026-05-06T09:05:25+00:00" class="time">09:05</time></a></span>
+  </div>
+</div>
+  </div>
+  
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="ProjectLeon7/11731" data-view="eyJjIjotMTYwNjYyODMwOCwicCI6MTE3MzEsInQiOjE3NzgwNjQwMDAsImgiOiIxMWQ0NjFkNTY1NTVjYjgzOWQifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/ProjectLeon7"><i class="tgme_widget_message_user_photo bgcolor5" data-content="ا"><img src="https://cdn4.telesco.pe/file/hwD_d53mJ1hE7cdaSP-6hM0H2LtAjSDEGmgEC4cng_4ZS1KgXKElwxOmoqnbL9vJEzX3EVcXp1ojTgY86UwY2afrnH9TvhKhPwLggPdpVxHuYE9b_aw-OXM_JBItphNHD-2GoNxUI4ryBgWtbd4PgCwX996zf5pfIhLpC5aVO5dTDDAlq4B1BGXhtIUWy6ZWc6YnATksNqXbbf7XNJ9X5Xr6V5vC004-Q3it2L25WsYld5Ff3WNLdA9KdrufJ4SH9DQm5FPxtzHE0ES6USzoy9ocUToAzaRzUbMPJNsnaU2_O9FeOqEW52Tx-VFzH-Syr38ab-VQSb7Q3mXOs8zuzA.jpg"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/ProjectLeon7"><span dir="auto">اخبار جنگ،ترامپ،رژیم،در لحظه&#33;هرشب آپدیت صوتی&#33;</span></a></div>
+
+
+<div class="media_supported_cont"><a class="tgme_widget_message_photo_wrap 6043924992103223187 1407210946_460001171" href="https://t.me/ProjectLeon7/11731" style="width:640px;background-image:url('https://cdn4.telesco.pe/file/UAk14JW3hvcsWdSAA199vFo-A4_eg0Nkg2u6gq6aoMiMkH_Pa2gXf6rZHsQaIM20hKDILe9wv5F5hChtGUyNaja9oI9QxkUsdVKc7NNl_qy26y-5nyZIF8jXpc9fr4b-DYXF1t596GI81NcHRpA5fBqR9BsKbisbNFOa0Py8iCYEx402LQdjqJDb07AKV1j4gRH9GzSgzlYsaxxIAqO8IvY3eSgTOhXXItM88RpdT1V9wzdhmMKBajgekXXRMbjCQeo4hBS5FPzFjLXT31a0ExeVAmmSFZBeUncPWt9Sy8vqSjMO7zgDGkdh09CWt25LXUTIVC1PjCs20FDMPelkUQ.jpg')">
+  <div class="tgme_widget_message_photo" style="padding-top:56.09375%"></div>
+</a><div class="tgme_widget_message_text js-message_text" dir="auto"><tg-emoji emoji-id="5397782960512444700"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F938C.png')"><b>📌</b></i></tg-emoji>&nbsp;<tg-emoji emoji-id="5395444784611480792"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29C8F.png')"><b>✏️</b></i></tg-emoji>&nbsp;<tg-emoji emoji-id="5222444124698853913"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9496.png')"><b>🔖</b></i></tg-emoji>&nbsp;روزنامه د هیل : <br/><br/><tg-emoji emoji-id="5411225014148014586"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')"><b>🔴</b></i></tg-emoji><b>لیندسی گراهام حرفش را پس گرفت: «من طرفدار واقعی تصرف جزیره خارک نیستم»</b><br/><br/>سناتور لیندسی گراهام (جمهوری‌خواه از کارولینای جنوبی) روز دوشنبه مسیر خود را برای اعزام نیرو جهت کنترل جزیره خارک که تقریباً ۹۰ درصد از صادرات نفت خام ایران را مدیریت می‌کند، تغییر داد.<br/><br/>گراهام در مصاحبه روز دوشنبه خود با برنامه &quot;هانیتی&quot; در شبکه فاکس نیوز گفت: &quot;من طرفدار واقعی تصرف جزیره خارک نیستم. فکر می‌کنم باید به جمهوری اسلامی بگوییم که آن را از هوا نابود خواهیم کرد.&quot;<br/><br/>او افزود: &quot;این کار ماموریتی را که در ذهن دارم، محقق می‌کند، به این معنی که آنها هرگز نمی‌توانند به این زودی‌ها دوباره احیا شوند تا به بزرگترین حامی تروریسم دولتی تبدیل شوند و برنامه هسته‌ای آنها نابود شده است. ما به پیروزی نزدیک هستیم.&quot;<br/><br/>در ماه مارس، گراهام بارها از رئیس جمهور ترامپ خواست که جزیره خارک را &quot;تصرف&quot; کند تا اقتصاد رژیم را &quot;فلج&quot; کند.<br/><br/>این سناتور کارولینای جنوبی، تهاجم زمینی احتمالی را با ایوو جیما، یکی از خونین‌ترین نبردها در اقیانوس آرام در طول جنگ جهانی دوم که منجر به کشته شدن ۷۰۰۰ نفر از نیروهای نظامی ایالات متحده شد، مقایسه کرد.<br/><br/>آنا پائولینا لونا، نماینده جمهوری‌خواه فلوریدا، گفت گراهام طوری رفتار می‌کند که انگار سربازان آمریکایی «گاوهای بی‌ارزش» هستند، در حالی که نانسی میس، نماینده جمهوری‌خواه کارولینای جنوبی، او را «ماشین جنگی واشنگتن» نامید.<br/><br/>در طول ماه گذشته، اظهارات گراهام در حمایت از حمله زمینی آرام‌تر شده است.<br/><br/>ترامپ به کنگره گفت که درگیری با رژیم برای اهداف مهلت ۶۰ روزه قانون اختیارات جنگی «پایان یافته» است، اما نیروهای آمریکایی و جمهوری اسلامی هنوز برای کنترل تنگه هرمز، یک آبراه حیاتی برای حمل و نقل نفت خام و انرژی، در حال مبارزه هستند.<br/><br/>گراهام روز دوشنبه به مجری برنامه شان هانیتی گفت: «پیروزی برای من به معنای بازپس‌گیری آزادی دریانوردی در تنگه هرمز، کاهش بیشتر واکنش‌های کوتاه و قوی، کاهش بیشتر توانایی نظامی آنها، تهدید جزیره خارک با نابودی و خروج و تلاش برای بازگرداندن اسرائیل و عربستان سعودی به میز صلح خواهد بود.» این سناتور همچنین گفت که ایرانیان باید برای سرنگونی رژیم به سلاح مجهز شوند.<br/><br/>این سناتور گفت: «اگر من رئیس جمهور ترامپ و اسرائیل بودم، مردم ایران را با سلاح پر می‌کردم تا بتوانند مسلح به خیابان‌ها بروند و جریان نبرد را در داخل ایران تغییر دهند.»<br/><br/>ما به نیروهای آمریکایی در میدان نیاز نداریم. ما میلیون‌ها نیروی نظامی در ایران داریم. آنها هیچ سلاحی ندارند. به آنها سلاح بدهید تا بتوانند مانند ما برای نابودی این رژیم قیام کنند. من فکر می‌کنم یک راه حل مبتنی بر متمم دوم قانون اساسی، راه زیادی برای پایان دادن به این جنگ خواهد بود.»<br/><br/><br/><a href="https://thehill.com/homenews/senate/5863814-lindsey-graham-reverses-kharg-island/" target="_blank" rel="noopener">https://thehill.com/homenews/senate/5863814-lindsey-graham-reverses-kharg-island/</a><br/><br/><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F8C9E.png')"><b>🌞</b></i><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29CA1.png')"><b>✡️</b></i>&nbsp;تیرشید ۱۶ اردیبهشت<br/>پراجکت لئون<br/><a href="?q=%23%D9%85%DA%AF%D8%A7%D9%BE%D8%AF">#مگاپد</a><br/><a href="?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87">#جاویدشاه</a></div></div><div class="media_not_supported_cont"><div class="message_media_not_supported_wrap">
+  <div class="message_media_not_supported">
+    <div class="message_media_not_supported_label">Please open Telegram to view this post</div>
+    <a href="https://t.me/ProjectLeon7/11731" class="message_media_view_in_telegram">VIEW IN TELEGRAM</a>
+  </div>
+</div></div>
+<div class="tgme_widget_message_reactions js-message_reactions"><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/E29DA4.png')"><b>❤</b></i>37</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F918D.png')"><b>👍</b></i>4</span><span class="tgme_reaction"><i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09FA4A3.png')"><b>🤣</b></i>3</span></div><div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1.81K</span><span class="copyonly"> views</span><span class="tgme_widget_message_meta"><span class="tgme_widget_message_from_author" dir="auto">Max Power <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9191.png')"><b>👑</b></i></span>,&nbsp;edited &nbsp;<a class="tgme_widget_message_date" href="https://t.me/ProjectLeon7/11731"><time datetime="2026-05-06T09:36:40+00:00" class="time">09:36</time></a></span>
   </div>
 </div>
   </div>
@@ -993,4 +923,4 @@ project.leon.official@projectleon.net
     
   </body>
 </html>
-<!-- page generated in 129.74ms -->
+<!-- page generated in 77.66ms -->
