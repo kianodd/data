@@ -33,7 +33,8 @@
 <meta name="twitter:description" content="pin ch desc
 ">
 
-    <link rel="canonical" href="/s/kasjosdjp?before=40">
+    <link rel="prev" href="/s/kasjosdjp?before=25">
+<link rel="canonical" href="/s/kasjosdjp?before=44">
 
     <script>window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches&&document.documentElement&&document.documentElement.classList&&document.documentElement.classList.add('theme_dark');</script>
     <link rel="icon" type="image/svg+xml" href="//telegram.org/img/website_icon.svg?4">
@@ -188,7 +189,7 @@
             </div>
             <div class="tgme_channel_info_header_username"><a href="https://t.me/kasjosdjp">@kasjosdjp</a></div>
           </div>
-          <div class="tgme_channel_info_counters"><div class="tgme_channel_info_counter"><span class="counter_value">1</span> <span class="counter_type">subscriber</span></div><div class="tgme_channel_info_counter"><span class="counter_value">5</span> <span class="counter_type">photos</span></div><div class="tgme_channel_info_counter"><span class="counter_value">1</span> <span class="counter_type">video</span></div><div class="tgme_channel_info_counter"><span class="counter_value">1</span> <span class="counter_type">file</span></div></div>
+          <div class="tgme_channel_info_counters"><div class="tgme_channel_info_counter"><span class="counter_value">1</span> <span class="counter_type">subscriber</span></div><div class="tgme_channel_info_counter"><span class="counter_value">6</span> <span class="counter_type">photos</span></div><div class="tgme_channel_info_counter"><span class="counter_value">3</span> <span class="counter_type">videos</span></div><div class="tgme_channel_info_counter"><span class="counter_value">1</span> <span class="counter_type">file</span></div></div>
           <div class="tgme_channel_info_description">pin ch desc</div>
           <a class="tgme_channel_download_telegram" href="//telegram.org/dl?tme=d1c3d1566023b634d0_9541158572725651778">
             <svg class="tgme_channel_download_telegram_icon" width="21px" height="18px" viewBox="0 0 21 18"><g fill="none"><path fill="#ffffff" d="M0.554,7.092 L19.117,0.078 C19.737,-0.156 20.429,0.156 20.663,0.776 C20.745,0.994 20.763,1.23 20.713,1.457 L17.513,16.059 C17.351,16.799 16.62,17.268 15.88,17.105 C15.696,17.065 15.523,16.987 15.37,16.877 L8.997,12.271 C8.614,11.994 8.527,11.458 8.805,11.074 C8.835,11.033 8.869,10.994 8.905,10.958 L15.458,4.661 C15.594,4.53 15.598,4.313 15.467,4.176 C15.354,4.059 15.174,4.037 15.036,4.125 L6.104,9.795 C5.575,10.131 4.922,10.207 4.329,10.002 L0.577,8.704 C0.13,8.55 -0.107,8.061 0.047,7.614 C0.131,7.374 0.316,7.182 0.554,7.092 Z"></path></g></svg>Download Telegram
@@ -228,33 +229,7 @@
 <main class="tgme_main" data-url="/kasjosdjp">
   <div class="tgme_container">
     <section class="tgme_channel_history js-message_history">
-      <div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap service_message js-widget_message" data-post="kasjosdjp/1" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MSwidCI6MTc3ODE0NzY1MSwiaCI6IjA2MmM4OGViNmU4MWYyMDFkYiJ9">
-  <div class="tgme_widget_message_user"><a href="https://t.me/kasjosdjp"><i class="tgme_widget_message_user_photo bgcolor1" data-content="P"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHgyPSIwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmY2Q2YSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmYTg1YyIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxzdHlsZT50ZXh0e2ZvbnQ6NjAwIDQ0cHggLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsJ1NlZ29lIFVJJyxSb2JvdG8sSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsJ0FwcGxlIENvbG9yIEVtb2ppJywnU2Vnb2UgVUkgRW1vamknLCdTZWdvZSBVSSBTeW1ib2wnOy13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTt1c2VyLXNlbGVjdDpub25lfTwvc3R5bGU%2BPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9InVybCgjZykiLz48dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MCIgeT0iNjYiIGZpbGw9IiNmZmYiPlA8L3RleHQ%2BPC9zdmc%2B"></i></a></div>
-  <div class="tgme_widget_message_bubble">
-    
-        <i class="tgme_widget_message_bubble_tail">
-      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
-        <g fill="none">
-          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
-          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
-          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
-          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
-        </g>
-      </svg>
-    </i>
-    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/kasjosdjp"><span dir="auto">Pin</span></a></div>
-
-
-<div class="tgme_widget_message_text js-message_text" dir="auto">Channel created</div>
-<div class="tgme_widget_message_footer compact js-message_footer">
-  
-  <div class="tgme_widget_message_info short js-message_info">
-    <span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/kasjosdjp/1"><time datetime="2024-12-25T10:21:53+00:00" class="time">13:51</time></a></span>
-  </div>
-</div>
-  </div>
-  
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/25" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MjUsInQiOjE3NzgxNDc2NTEsImgiOiJjNTIyODkyN2U3NzkxNDIwZjYifQ">
+      <div class="tgme_widget_message_centered js-messages_more_wrap"><a href="/s/kasjosdjp?before=25" class="tme_messages_more js-messages_more" data-before="25"></a></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/25" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MjUsInQiOjE3NzgxNDg3NDQsImgiOiJiNjkxYWM2YjQ4Y2M2ZDM3MmMifQ">
   <div class="tgme_widget_message_user"><a href="https://t.me/kasjosdjp"><i class="tgme_widget_message_user_photo bgcolor1" data-content="P"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHgyPSIwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmY2Q2YSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmYTg1YyIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxzdHlsZT50ZXh0e2ZvbnQ6NjAwIDQ0cHggLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsJ1NlZ29lIFVJJyxSb2JvdG8sSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsJ0FwcGxlIENvbG9yIEVtb2ppJywnU2Vnb2UgVUkgRW1vamknLCdTZWdvZSBVSSBTeW1ib2wnOy13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTt1c2VyLXNlbGVjdDpub25lfTwvc3R5bGU%2BPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9InVybCgjZykiLz48dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MCIgeT0iNjYiIGZpbGw9IiNmZmYiPlA8L3RleHQ%2BPC9zdmc%2B"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
@@ -280,7 +255,7 @@
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/26" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MjYsInQiOjE3NzgxNDc2NTEsImgiOiI5OTY0NmFjZjlhYjQ0YzgzMWUifQ">
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/26" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MjYsInQiOjE3NzgxNDg3NDQsImgiOiJmOGIzYTg2Yjc0MGMwMTZmZWMifQ">
   <div class="tgme_widget_message_user"><a href="https://t.me/kasjosdjp"><i class="tgme_widget_message_user_photo bgcolor1" data-content="P"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHgyPSIwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmY2Q2YSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmYTg1YyIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxzdHlsZT50ZXh0e2ZvbnQ6NjAwIDQ0cHggLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsJ1NlZ29lIFVJJyxSb2JvdG8sSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsJ0FwcGxlIENvbG9yIEVtb2ppJywnU2Vnb2UgVUkgRW1vamknLCdTZWdvZSBVSSBTeW1ib2wnOy13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTt1c2VyLXNlbGVjdDpub25lfTwvc3R5bGU%2BPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9InVybCgjZykiLz48dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MCIgeT0iNjYiIGZpbGw9IiNmZmYiPlA8L3RleHQ%2BPC9zdmc%2B"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
@@ -311,7 +286,7 @@
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/27" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MjcsInQiOjE3NzgxNDc2NTEsImgiOiI0MmY2OGQ1YzNkMjcxZWZjMTIifQ">
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/27" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MjcsInQiOjE3NzgxNDg3NDQsImgiOiI4NDZlNDk1NTFhMGNkYWE1YTYifQ">
   <div class="tgme_widget_message_user"><a href="https://t.me/kasjosdjp"><i class="tgme_widget_message_user_photo bgcolor1" data-content="P"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHgyPSIwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmY2Q2YSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmYTg1YyIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxzdHlsZT50ZXh0e2ZvbnQ6NjAwIDQ0cHggLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsJ1NlZ29lIFVJJyxSb2JvdG8sSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsJ0FwcGxlIENvbG9yIEVtb2ppJywnU2Vnb2UgVUkgRW1vamknLCdTZWdvZSBVSSBTeW1ib2wnOy13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTt1c2VyLXNlbGVjdDpub25lfTwvc3R5bGU%2BPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9InVybCgjZykiLz48dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MCIgeT0iNjYiIGZpbGw9IiNmZmYiPlA8L3RleHQ%2BPC9zdmc%2B"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
@@ -339,7 +314,7 @@
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/28" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MjgsInQiOjE3NzgxNDc2NTEsImgiOiJkNTM3YTFiODhmYmVmMDQyMjQifQ">
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/28" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MjgsInQiOjE3NzgxNDg3NDQsImgiOiIzYTE3NTQ5YWFjZGRiMjNmNDgifQ">
   <div class="tgme_widget_message_user"><a href="https://t.me/kasjosdjp"><i class="tgme_widget_message_user_photo bgcolor1" data-content="P"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHgyPSIwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmY2Q2YSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmYTg1YyIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxzdHlsZT50ZXh0e2ZvbnQ6NjAwIDQ0cHggLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsJ1NlZ29lIFVJJyxSb2JvdG8sSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsJ0FwcGxlIENvbG9yIEVtb2ppJywnU2Vnb2UgVUkgRW1vamknLCdTZWdvZSBVSSBTeW1ib2wnOy13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTt1c2VyLXNlbGVjdDpub25lfTwvc3R5bGU%2BPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9InVybCgjZykiLz48dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MCIgeT0iNjYiIGZpbGw9IiNmZmYiPlA8L3RleHQ%2BPC9zdmc%2B"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
@@ -365,7 +340,7 @@
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/29" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MjksInQiOjE3NzgxNDc2NTEsImgiOiI4YjRiNWNjNDQwNzZjNzYzYzgifQ">
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/29" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MjksInQiOjE3NzgxNDg3NDQsImgiOiIwNTFlZmFlYTFlZDFjOGQ1MjgifQ">
   <div class="tgme_widget_message_user"><a href="https://t.me/kasjosdjp"><i class="tgme_widget_message_user_photo bgcolor1" data-content="P"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHgyPSIwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmY2Q2YSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmYTg1YyIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxzdHlsZT50ZXh0e2ZvbnQ6NjAwIDQ0cHggLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsJ1NlZ29lIFVJJyxSb2JvdG8sSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsJ0FwcGxlIENvbG9yIEVtb2ppJywnU2Vnb2UgVUkgRW1vamknLCdTZWdvZSBVSSBTeW1ib2wnOy13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTt1c2VyLXNlbGVjdDpub25lfTwvc3R5bGU%2BPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9InVybCgjZykiLz48dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MCIgeT0iNjYiIGZpbGw9IiNmZmYiPlA8L3RleHQ%2BPC9zdmc%2B"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
@@ -403,7 +378,7 @@
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/30" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MzAsInQiOjE3NzgxNDc2NTEsImgiOiJjZTJhNWI2NmQ1MTg5MzZmZmYifQ">
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/30" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MzAsInQiOjE3NzgxNDg3NDQsImgiOiJlZDNkMDQ4ZmU4OGU1YTBlMWQifQ">
   <div class="tgme_widget_message_user"><a href="https://t.me/kasjosdjp"><i class="tgme_widget_message_user_photo bgcolor1" data-content="P"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHgyPSIwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmY2Q2YSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmYTg1YyIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxzdHlsZT50ZXh0e2ZvbnQ6NjAwIDQ0cHggLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsJ1NlZ29lIFVJJyxSb2JvdG8sSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsJ0FwcGxlIENvbG9yIEVtb2ppJywnU2Vnb2UgVUkgRW1vamknLCdTZWdvZSBVSSBTeW1ib2wnOy13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTt1c2VyLXNlbGVjdDpub25lfTwvc3R5bGU%2BPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9InVybCgjZykiLz48dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MCIgeT0iNjYiIGZpbGw9IiNmZmYiPlA8L3RleHQ%2BPC9zdmc%2B"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
@@ -440,7 +415,7 @@
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap sticker_media no_bubble js-widget_message" data-post="kasjosdjp/31" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MzEsInQiOjE3NzgxNDc2NTEsImgiOiIyODZkZjk5ZGVlNTU0ZTM5NjcifQ">
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap sticker_media no_bubble js-widget_message" data-post="kasjosdjp/31" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MzEsInQiOjE3NzgxNDg3NDQsImgiOiI5ZThjZWU1N2Y3MjM5ZWM1MWIifQ">
   <div class="tgme_widget_message_user"><a href="https://t.me/kasjosdjp"><i class="tgme_widget_message_user_photo bgcolor1" data-content="P"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHgyPSIwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmY2Q2YSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmYTg1YyIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxzdHlsZT50ZXh0e2ZvbnQ6NjAwIDQ0cHggLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsJ1NlZ29lIFVJJyxSb2JvdG8sSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsJ0FwcGxlIENvbG9yIEVtb2ppJywnU2Vnb2UgVUkgRW1vamknLCdTZWdvZSBVSSBTeW1ib2wnOy13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTt1c2VyLXNlbGVjdDpub25lfTwvc3R5bGU%2BPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9InVybCgjZykiLz48dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MCIgeT0iNjYiIGZpbGw9IiNmZmYiPlA8L3RleHQ%2BPC9zdmc%2B"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
@@ -472,7 +447,7 @@
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap sticker_media no_bubble js-widget_message" data-post="kasjosdjp/33" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MzMsInQiOjE3NzgxNDc2NTEsImgiOiI5OTQ0YWVhMzA5MGJlMTAwMDEifQ">
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap sticker_media no_bubble js-widget_message" data-post="kasjosdjp/33" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MzMsInQiOjE3NzgxNDg3NDQsImgiOiJkMjFiYjI0NTg1MjdkNzY4M2UifQ">
   <div class="tgme_widget_message_user"><a href="https://t.me/kasjosdjp"><i class="tgme_widget_message_user_photo bgcolor1" data-content="P"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHgyPSIwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmY2Q2YSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmYTg1YyIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxzdHlsZT50ZXh0e2ZvbnQ6NjAwIDQ0cHggLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsJ1NlZ29lIFVJJyxSb2JvdG8sSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsJ0FwcGxlIENvbG9yIEVtb2ppJywnU2Vnb2UgVUkgRW1vamknLCdTZWdvZSBVSSBTeW1ib2wnOy13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTt1c2VyLXNlbGVjdDpub25lfTwvc3R5bGU%2BPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9InVybCgjZykiLz48dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MCIgeT0iNjYiIGZpbGw9IiNmZmYiPlA8L3RleHQ%2BPC9zdmc%2B"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
@@ -504,7 +479,7 @@
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/34" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MzQsInQiOjE3NzgxNDc2NTEsImgiOiJiNjkzYzNiZGNkNDg0YjFhMTYifQ">
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/34" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MzQsInQiOjE3NzgxNDg3NDQsImgiOiJlNDQwYTQ5ZWZmOWQzOGUwYWIifQ">
   <div class="tgme_widget_message_user"><a href="https://t.me/kasjosdjp"><i class="tgme_widget_message_user_photo bgcolor1" data-content="P"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHgyPSIwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmY2Q2YSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmYTg1YyIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxzdHlsZT50ZXh0e2ZvbnQ6NjAwIDQ0cHggLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsJ1NlZ29lIFVJJyxSb2JvdG8sSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsJ0FwcGxlIENvbG9yIEVtb2ppJywnU2Vnb2UgVUkgRW1vamknLCdTZWdvZSBVSSBTeW1ib2wnOy13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTt1c2VyLXNlbGVjdDpub25lfTwvc3R5bGU%2BPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9InVybCgjZykiLz48dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MCIgeT0iNjYiIGZpbGw9IiNmZmYiPlA8L3RleHQ%2BPC9zdmc%2B"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
@@ -558,7 +533,7 @@
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/35" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MzUsInQiOjE3NzgxNDc2NTEsImgiOiJhNTg5MjgxZDAxOGY5NWUwYTYifQ">
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/35" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MzUsInQiOjE3NzgxNDg3NDQsImgiOiJmODYwYTYxMzk3ZTA4MWZlODAifQ">
   <div class="tgme_widget_message_user"><a href="https://t.me/kasjosdjp"><i class="tgme_widget_message_user_photo bgcolor1" data-content="P"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHgyPSIwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmY2Q2YSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmYTg1YyIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxzdHlsZT50ZXh0e2ZvbnQ6NjAwIDQ0cHggLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsJ1NlZ29lIFVJJyxSb2JvdG8sSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsJ0FwcGxlIENvbG9yIEVtb2ppJywnU2Vnb2UgVUkgRW1vamknLCdTZWdvZSBVSSBTeW1ib2wnOy13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTt1c2VyLXNlbGVjdDpub25lfTwvc3R5bGU%2BPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9InVybCgjZykiLz48dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MCIgeT0iNjYiIGZpbGw9IiNmZmYiPlA8L3RleHQ%2BPC9zdmc%2B"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
@@ -600,7 +575,7 @@
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/36" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MzYsInQiOjE3NzgxNDc2NTEsImgiOiJlNGNlZGM0YmU4OTIzOGNhOWUifQ">
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/36" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MzYsInQiOjE3NzgxNDg3NDQsImgiOiJmMzdkOGM4NjdlNmJjNTA4MjgifQ">
   <div class="tgme_widget_message_user"><a href="https://t.me/kasjosdjp"><i class="tgme_widget_message_user_photo bgcolor1" data-content="P"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHgyPSIwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmY2Q2YSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmYTg1YyIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxzdHlsZT50ZXh0e2ZvbnQ6NjAwIDQ0cHggLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsJ1NlZ29lIFVJJyxSb2JvdG8sSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsJ0FwcGxlIENvbG9yIEVtb2ppJywnU2Vnb2UgVUkgRW1vamknLCdTZWdvZSBVSSBTeW1ib2wnOy13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTt1c2VyLXNlbGVjdDpub25lfTwvc3R5bGU%2BPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9InVybCgjZykiLz48dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MCIgeT0iNjYiIGZpbGw9IiNmZmYiPlA8L3RleHQ%2BPC9zdmc%2B"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
@@ -632,7 +607,7 @@
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/37" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MzcsInQiOjE3NzgxNDc2NTEsImgiOiI1NzMwYjM4YTg4ZDk1NmJiOGQifQ">
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/37" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MzcsInQiOjE3NzgxNDg3NDQsImgiOiIwNjExNDk5MzE0ZjJlZDE0ZjUifQ">
   <div class="tgme_widget_message_user"><a href="https://t.me/kasjosdjp"><i class="tgme_widget_message_user_photo bgcolor1" data-content="P"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHgyPSIwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmY2Q2YSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmYTg1YyIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxzdHlsZT50ZXh0e2ZvbnQ6NjAwIDQ0cHggLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsJ1NlZ29lIFVJJyxSb2JvdG8sSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsJ0FwcGxlIENvbG9yIEVtb2ppJywnU2Vnb2UgVUkgRW1vamknLCdTZWdvZSBVSSBTeW1ib2wnOy13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTt1c2VyLXNlbGVjdDpub25lfTwvc3R5bGU%2BPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9InVybCgjZykiLz48dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MCIgeT0iNjYiIGZpbGw9IiNmZmYiPlA8L3RleHQ%2BPC9zdmc%2B"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
@@ -664,7 +639,7 @@
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap sticker_media no_bubble js-widget_message" data-post="kasjosdjp/38" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MzgsInQiOjE3NzgxNDc2NTEsImgiOiJkYTg0NGUxYTM2MWEyOTJkZTgifQ">
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap sticker_media no_bubble js-widget_message" data-post="kasjosdjp/38" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6MzgsInQiOjE3NzgxNDg3NDQsImgiOiJkZTc1ZmU2ZDU1YjhkYTZlMTIifQ">
   <div class="tgme_widget_message_user"><a href="https://t.me/kasjosdjp"><i class="tgme_widget_message_user_photo bgcolor1" data-content="P"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHgyPSIwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmY2Q2YSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmYTg1YyIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxzdHlsZT50ZXh0e2ZvbnQ6NjAwIDQ0cHggLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsJ1NlZ29lIFVJJyxSb2JvdG8sSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsJ0FwcGxlIENvbG9yIEVtb2ppJywnU2Vnb2UgVUkgRW1vamknLCdTZWdvZSBVSSBTeW1ib2wnOy13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTt1c2VyLXNlbGVjdDpub25lfTwvc3R5bGU%2BPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9InVybCgjZykiLz48dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MCIgeT0iNjYiIGZpbGw9IiNmZmYiPlA8L3RleHQ%2BPC9zdmc%2B"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
@@ -696,7 +671,7 @@
 </div>
   </div>
   
-</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/39" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6IjM5ZyIsInQiOjE3NzgxNDc2NTEsImgiOiIzZWJhNTQ1MWUxOWE4ODQ3ZjAifQ">
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/39" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6IjM5ZyIsInQiOjE3NzgxNDg3NDQsImgiOiI3OTU5MDViOWIxYTAwNTBkYjAifQ">
   <div class="tgme_widget_message_user"><a href="https://t.me/kasjosdjp"><i class="tgme_widget_message_user_photo bgcolor1" data-content="P"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHgyPSIwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmY2Q2YSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmYTg1YyIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxzdHlsZT50ZXh0e2ZvbnQ6NjAwIDQ0cHggLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsJ1NlZ29lIFVJJyxSb2JvdG8sSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsJ0FwcGxlIENvbG9yIEVtb2ppJywnU2Vnb2UgVUkgRW1vamknLCdTZWdvZSBVSSBTeW1ib2wnOy13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTt1c2VyLXNlbGVjdDpub25lfTwvc3R5bGU%2BPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9InVybCgjZykiLz48dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MCIgeT0iNjYiIGZpbGw9IiNmZmYiPlA8L3RleHQ%2BPC9zdmc%2B"></i></a></div>
   <div class="tgme_widget_message_bubble">
     
@@ -744,6 +719,68 @@
 </div>
   </div>
   
+</div></div><div class="tgme_widget_message_wrap js-widget_message_wrap"><div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="kasjosdjp/43" data-view="eyJjIjotMjQyMTgxNTUzMCwicCI6IjQzZyIsInQiOjE3NzgxNDg3NDQsImgiOiJkMmUyZGNhYTYwMzJiOGViZGMifQ">
+  <div class="tgme_widget_message_user"><a href="https://t.me/kasjosdjp"><i class="tgme_widget_message_user_photo bgcolor1" data-content="P"><img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwIiBoZWlnaHQ9IjE2MCIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSIgdmlld0JveD0iMCAwIDEwMCAxMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGRlZnM%2BPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHgyPSIwJSIgeTE9IjAlIiB5Mj0iMTAwJSI%2BPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmY2Q2YSIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZmYTg1YyIvPjwvbGluZWFyR3JhZGllbnQ%2BPC9kZWZzPjxzdHlsZT50ZXh0e2ZvbnQ6NjAwIDQ0cHggLWFwcGxlLXN5c3RlbSxCbGlua01hY1N5c3RlbUZvbnQsJ1NlZ29lIFVJJyxSb2JvdG8sSGVsdmV0aWNhLEFyaWFsLHNhbnMtc2VyaWYsJ0FwcGxlIENvbG9yIEVtb2ppJywnU2Vnb2UgVUkgRW1vamknLCdTZWdvZSBVSSBTeW1ib2wnOy13ZWJraXQtdXNlci1zZWxlY3Q6bm9uZTt1c2VyLXNlbGVjdDpub25lfTwvc3R5bGU%2BPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9InVybCgjZykiLz48dGV4dCB0ZXh0LWFuY2hvcj0ibWlkZGxlIiB4PSI1MCIgeT0iNjYiIGZpbGw9IiNmZmYiPlA8L3RleHQ%2BPC9zdmc%2B"></i></a></div>
+  <div class="tgme_widget_message_bubble">
+    
+        <i class="tgme_widget_message_bubble_tail">
+      <svg class="bubble_icon" width="9px" height="20px" viewBox="0 0 9 20">
+        <g fill="none">
+          <path class="background" fill="#ffffff" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z"></path>
+          <path class="border_1x" fill="#d7e3ec" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z"></path>
+          <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z"></path>
+          <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z"></path>
+        </g>
+      </svg>
+    </i>
+    <div class="tgme_widget_message_author accent_color"><a class="tgme_widget_message_owner_name" href="https://t.me/kasjosdjp"><span dir="auto">Pin</span></a></div>
+
+
+<div class="tgme_widget_message_grouped_wrap js-message_grouped_wrap" data-margin-w="2" data-margin-h="2" style="width:453px;">
+  <div class="tgme_widget_message_grouped js-message_grouped" style="padding-top:83.885%">
+    <div class="tgme_widget_message_grouped_layer js-message_grouped_layer" style="width:453px;height:380px">
+      <a class="tgme_widget_message_video_player grouped_media_wrap blured js-message_video_player" style="left:0px;top:0px;width:453px;height:254px;margin-right:0px;margin-bottom:2px;" data-ratio="1.7833333333333" href="https://t.me/kasjosdjp/43?single">
+  
+  <div class="tgme_widget_message_video_wrap grouped_media js-message_video_wrap" style="left:0;right:0;top:-1px;bottom:0px;">
+    <video src="https://cdn4.telesco.pe/file/b88f851e01.mp4?token=jbzT_pgvNJ3f_JFCSFaYAD4jL-Z5PFe9efmtZbwQRDyUrFzRn4nJ6A8DOQzpXhqa0SmnYI3_ytyJKWjiK-fMVaA8XRhtpakt_D2dtcC431zYMfWhakCh-eOTJKbKXaJ3CzsSdaKuKm_LTbIOoZ2nel7JxmiZ1G2XpMG1g1jGXs5senWYGQHzzsFGNbjrW8BZRV2eGZAATnI4L5q-npdReejUaFCX4lTZ0zRmMvLGK-E8rQxLrJXyE6VpXQWcQhaIdl1zz40Q0OXp40W5cAuY5JiCT0BAkoWel4idrfHWC-D5_p8rejvIp7UUhaco8NHjzDQcDVdBylVDa4QWQ0McZA" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+  </div>
+  <div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:20</time>
+  <div class="message_media_not_supported_wrap">
+    <div class="message_media_not_supported">
+      <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+      <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+    </div>
+  </div>
+</a><a class="tgme_widget_message_video_player grouped_media_wrap blured js-message_video_player" style="left:0px;top:256px;width:225px;height:124px;margin-right:2px;margin-bottom:0px;" data-ratio="1.8181818181818" href="https://t.me/kasjosdjp/44?single">
+  <i class="tgme_widget_message_video_thumb" style="background-image:url('https://cdn4.telesco.pe/file/e8JUnnQqEbUe_RS9Z9X6hLzW5nNIDxC8B7cGHTLLwo6HoWt0LsbVLCc3mN-weVu-b069H8V8laCYPBbZKVMDu-JXpCr0Mdo6axOFO4aYLm2uY6mL_yJINMRg_QT4xXu4LcTqxcs8z2eYcJKly9JEjRsKxbwkdC4LDhjlrUz6glRM7a9V8f4dvOC_FpbeFzJHU2XyQEU7Pxdo2RksRhN4NsvlvFEGgfFF7tMee2nqtC88TT4_KEBwvm1oYYkC0KWzPZnpWhWKl4ksEKjFmg17ukt-rt8zQ3M5G1FjFxfRhzc31lB4PAL4LJmx85ZEAPsHE1xEYKOitFs7HX801NuejA')"></i>
+  <div class="tgme_widget_message_video_wrap grouped_media js-message_video_wrap" style="top:0;bottom:0;left:-1px;right:0px;">
+    <video src="https://cdn4.telesco.pe/file/c0831113fd.mp4?token=FlYUNgyAK_rgQUTnYY-5_JJ6soIS9swCvR0gW2TecBfy0Jx-6kNr2zbIY_APiqc4mzD5DVZD9yRIS84fE4EUWowmyp404DAWozHk9SL8DXhgJGtW-ZhfKWV3wjr2cT_orsOKgt9oQgHD4PTH11a_yCV_yduP_pD81EbeZBJOzpYALodx68tEi0FADKL88G6hJkfsdMXOX-BVQyC_Lx-guefwK28UGYydN0ReBYj891JuPjDggQXAg-u-m4n2qsISTcZlKt0Wsy4kDWrQLYgZbR_dTWeWYI8ed8U6DsQTGZS_IGK-QnwYsdehdNXnHq9Uomi7MYpdOuAGELujpy64YA" class="tgme_widget_message_video js-message_video" width="100%" height="100%"></video>
+  </div>
+  <div class="message_video_play js-message_video_play"></div>
+<time class="message_video_duration js-message_video_duration">0:05</time>
+  <div class="message_media_not_supported_wrap">
+    <div class="message_media_not_supported">
+      <div class="message_media_not_supported_label">This media is not supported in your browser</div>
+      <span class="message_media_view_in_telegram">VIEW IN TELEGRAM</span>
+    </div>
+  </div>
+</a><a class="tgme_widget_message_photo_wrap grouped_media_wrap blured js-message_photo" style="left:227px;top:256px;width:226px;height:124px;margin-right:0px;margin-bottom:0px;background-image:url('https://cdn4.telesco.pe/file/OKiMZyRfsva8CSwU6Cu8b5_eDxfybu2ywJAGnRiCJbdLSn_z49PJY0FRrFrwbdYZKPH7XJLWBQwGiUu4jZI6JnxpnMNh5nJIMeuAen7GoYy00IEdF23_aUcR60XWmX6MpxIolFGk4ee2qR6wvLqAxDyA4mWL5t21BrTv15vMLW4n6aq8LMjxjUP-alMj8BLsFhUF-jRUwPfCWpY9z82_nydWUPMZye4C7Q2ipJeDC_S6Wngv3DhZgV3T8tP2HsMaJJKP4e78pu_DZIamYPptY8DL80Ek9RV0HWHS-o-ZUUM9R9cYCtxtNc48bcyQCuZni0BrCrVKZKUw81JZ-RU-dg.jpg')" data-ratio="1.7241379310345" href="https://t.me/kasjosdjp/45?single">
+  <div class="grouped_media_helper" style="left:0;right:0;top:59px;bottom:59px;">
+    <div class="tgme_widget_message_photo grouped_media" style="left:0;right:0;top:-4px;bottom:-4px;"></div>
+  </div>
+</a>
+    </div>
+  </div>
+</div><div class="tgme_widget_message_text js-message_text" dir="auto"><div class="tgme_widget_message_text js-message_text" dir="auto">tarkib aks v film</div></div>
+<div class="tgme_widget_message_footer compact js-message_footer">
+  
+  <div class="tgme_widget_message_info short js-message_info">
+    <span class="tgme_widget_message_views">1</span><span class="copyonly"> view</span><span class="tgme_widget_message_meta"><a class="tgme_widget_message_date" href="https://t.me/kasjosdjp/43"><time datetime="2026-05-07T10:11:43+00:00" class="time">13:41</time></a></span>
+  </div>
+</div>
+  </div>
+  
 </div></div>
     </section>
   </div>
@@ -760,4 +797,4 @@
     
   </body>
 </html>
-<!-- page generated in 78.78ms -->
+<!-- page generated in 53.69ms -->
